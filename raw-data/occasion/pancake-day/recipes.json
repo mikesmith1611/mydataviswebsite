@@ -1,0 +1,932 @@
+{
+    "easy-pancakes": {
+        "ingredients": [
+            "3 large free-range eggs",
+            "125 g plain flour",
+            "250 ml milk",
+            "unsalted butter"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "108",
+                "4.1g",
+                "1.6g",
+                "5.2g",
+                "13.7g",
+                "1.7g",
+                "0.10g",
+                "0.4g"
+            ],
+            [
+                "5%",
+                "6%",
+                "8%",
+                "10%",
+                "5%",
+                "2%",
+                "2%",
+                null
+            ]
+        ]
+    },
+    "leftover-squash-pancakes": {
+        "ingredients": [
+            "250 g leftover roasted squash",
+            "1 fresh red chilli",
+            "2 sprigs of fresh rosemary",
+            "30 g Parmesan cheese , plus extra to serve",
+            "1 large free-range egg",
+            "280 ml semi-skimmed milk",
+            "150 g self-raising flour",
+            "1 whole nutmeg , for grating",
+            "olive oil",
+            "rocket"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "79",
+                "2.1g",
+                "1g",
+                "3.7g",
+                "12.2g",
+                "2.1g",
+                "0.2g",
+                "0.7g"
+            ],
+            [
+                "4%",
+                "3%",
+                "5%",
+                "7%",
+                "5%",
+                "2%",
+                "3%",
+                null
+            ]
+        ]
+    },
+    "vegan-blueberry-pancakes": {
+        "ingredients": [
+            "1 tablespoon ground flaxseed",
+            "1 tablespoon coconut oil",
+            "250 ml unsweetened organic soya milk , or almond milk",
+            "1 teaspoon cider vinegar",
+            "125 g wholemeal flour",
+            "1 teaspoon golden caster sugar",
+            "1 teaspoon baking powder",
+            "\u00bc teaspoon bicarbonate of soda",
+            "1 pinch of sea salt",
+            "50 g blueberries , plus extra to serve",
+            "vegetable oil",
+            "organic soya yoghurt , to serve",
+            "maple syrup , to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "178",
+                "6.9g",
+                "3.6g",
+                "4.8g",
+                "25.3g",
+                "5.1g",
+                "1.2g",
+                "3.7g"
+            ],
+            [
+                "9%",
+                "10%",
+                "18%",
+                "10%",
+                "10%",
+                "6%",
+                "20%",
+                null
+            ]
+        ]
+    },
+    "healthy-cheese-corn-pancakes": {
+        "ingredients": [
+            "1 x 340 g tin of sweetcorn",
+            "6 spring onions",
+            "1 fresh red chilli",
+            "2 large free-range eggs",
+            "200 g cottage cheese",
+            "150 g wholemeal self-raising flour",
+            "50 ml semi-skimmed milk",
+            "olive oil",
+            "4 rashers of higher-welfare smoked streaky bacon",
+            "4 small bananas",
+            "Tabasco jalape\u00f1o sauce , optional"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "400",
+                "10.7g",
+                "4g",
+                "18.2g",
+                "59.9g",
+                "23.8g",
+                "0.9g",
+                "6.6g"
+            ],
+            [
+                "20%",
+                "15%",
+                "20%",
+                "36%",
+                "23%",
+                "26%",
+                "15%",
+                null
+            ]
+        ]
+    },
+    "one-cup-pancakes-with-blueberries": {
+        "ingredients": [
+            "1 large free-range egg",
+            "1 cup of self-raising flour",
+            "1 cup of milk",
+            "sea salt",
+            "optional:",
+            "200 g blueberries",
+            "olive oil",
+            "4 tablespoons natural yoghurt"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "300",
+                "5g",
+                "1.4g",
+                "11.7g",
+                "51g",
+                "5.4g"
+            ],
+            [
+                "15%",
+                "7%",
+                "7%",
+                "23%",
+                "20%",
+                "6%"
+            ]
+        ]
+    },
+    "maple-crepe-cake-with-caramelised-pancetta": {
+        "ingredients": [
+            "450 g plain flour",
+            "25 g butter , plus extra for frying",
+            "18 slices of higher-welfare pancetta",
+            "4-5 tablespoons maple syrup",
+            "200 g pecans",
+            "250 g golden caster sugar",
+            "BUTTERCREAM",
+            "150 g butter",
+            "250 g icing sugar",
+            "4 tablespoons maple syrup"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "811",
+                "40.6g",
+                "13.9g",
+                "17.4g",
+                "100.6g",
+                "64.9g"
+            ],
+            [
+                "41%",
+                "58%",
+                "70%",
+                "35%",
+                "39%",
+                "72%"
+            ]
+        ]
+    },
+    "pancake-cake": {
+        "ingredients": [
+            "3 cups of self-raising flour",
+            "3 cups of milk",
+            "3 large free-range eggs",
+            "olive oil",
+            "150 g quality dark chocolate (70%) , plus extra to serve",
+            "50 g unsalted butter",
+            "180 g hazelnuts and Brazil nuts",
+            "600 ml double cream",
+            "1 tablespoon vanilla extract",
+            "1\u00bd tablespoons golden caster sugar"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "511",
+                "39.8g",
+                "19.5g",
+                "8.6g",
+                "31.8g",
+                "12.4g",
+                "0.4g",
+                "1.6g"
+            ],
+            [
+                "26%",
+                "57%",
+                "98%",
+                "17%",
+                "12%",
+                "14%",
+                "7%",
+                null
+            ]
+        ]
+    },
+    "amazing-indian-dosa": {
+        "ingredients": [
+            "2 baking potatoes",
+            "2 sweet potatoes",
+            "1 dried red chilli",
+            "1 fresh red chilli",
+            "1 cm piece of ginger",
+            "olive oil",
+            "1\u00bd teaspoons mustard seeds",
+            "1 teaspoon ground turmeric",
+            "4 spring onions",
+            "a few sprigs of fresh coriander",
+            "1 lime",
+            "DOSA BATTER",
+            "1 cup of gram flour",
+            "1 cup of plain flour",
+            "\u00bd teaspoon bicarbonate of soda",
+            "2\u00bd teaspoons mustard seeds"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "455",
+                "6.3g",
+                "0.8g",
+                "16.5g",
+                "90g",
+                "7.5g",
+                "0.8g",
+                "9.4g"
+            ],
+            [
+                "23%",
+                "9%",
+                "4%",
+                "33%",
+                "35%",
+                "8%",
+                "13%",
+                null
+            ]
+        ]
+    },
+    "one-cup-pancakes-tropical-yoghurt-and-mango": {
+        "ingredients": [
+            "2 ripe bananas",
+            "1 tablespoon desiccated coconut",
+            "250 g natural yoghurt",
+            "1 large free-range egg",
+            "1 cup self-raising flour",
+            "1 cup milk",
+            "25 g unsalted butter",
+            "2 ripe mangos",
+            "1 lime"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "456",
+                "10g",
+                "5.6g",
+                "14.4g",
+                "82.5g",
+                "27.7g",
+                "1.06g",
+                "3.5g"
+            ],
+            [
+                "23%",
+                "14%",
+                "28%",
+                "29%",
+                "32%",
+                "31%",
+                "18%",
+                null
+            ]
+        ]
+    },
+    "dutch-baby-pancakes-with-roasted-plums": {
+        "ingredients": [
+            "20 g butter",
+            "2 large free-range eggs",
+            "100 ml single cream",
+            "120 ml milk",
+            "125 ml plain flour",
+            "30 g golden caster sugar",
+            "1 tablespoon cinnamon",
+            "ROASTED PLUMS",
+            "3 plums",
+            "\u00bd orange",
+            "2 tablespoons golden caster sugar"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "584",
+                "26g",
+                "13.4g",
+                "17.3g",
+                "75.9g",
+                "28.3g"
+            ],
+            [
+                "29%",
+                "37%",
+                "67%",
+                "35%",
+                "29%",
+                "31%"
+            ]
+        ]
+    },
+    "lemon-cr-pe-cake": {
+        "ingredients": [
+            "21 ready-made cr\u00eapes",
+            "6 teaspoons gelatine powder",
+            "4x320 g jars lemon curd",
+            "1 lemon , grated zest of",
+            "cr\u00e8me fra\u00eeche , to serve",
+            "candied lemon slices",
+            "190 g granulated slices",
+            "1 lemon , thinly sliced",
+            "6 drops lemon essence"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "408",
+                "6.7g",
+                "1.9g",
+                "5.9g",
+                "80.7g",
+                "49.3g"
+            ],
+            [
+                "20%",
+                "10%",
+                "10%",
+                "12%",
+                "31%",
+                "55%"
+            ]
+        ]
+    },
+    "protein-pancakes": {
+        "ingredients": [
+            "100 g oats",
+            "2 large free-range eggs",
+            "100 g cottage cheese",
+            "1 banana",
+            "1 pinch of baking powder",
+            "1 splash of almond milk",
+            "groundnut oil",
+            "TOPPINGS",
+            "4 tablespoons almond butter",
+            "2 teaspoons runny honey",
+            "4 tablespoons fat-free Greek yoghurt",
+            "4 fresh figs",
+            "1 pear",
+            "1 apple",
+            "1 handful of pomegranate seeds"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "396",
+                "18.4g",
+                "2.8g",
+                "17.4g",
+                "44.9g",
+                "28.9g",
+                "0.38g",
+                "6.8g"
+            ],
+            [
+                "20%",
+                "26%",
+                "14%",
+                "35%",
+                "17%",
+                "32%",
+                "6%",
+                null
+            ]
+        ]
+    },
+    "chickpea-flour-pancakes-with-salad-chutney": {
+        "ingredients": [
+            "\u00bd a medium onion",
+            "\u00bd a fresh green chilli",
+            "a few sprigs of fresh coriander",
+            "\u00bd teaspoon cumin seeds",
+            "1 teaspoon dried pomegranate seeds , (see note)",
+            "300 g gram (chickpea) flour",
+            "\u00bd teaspoon ground coriander",
+            "\u00bc teaspoon ground turmeric",
+            "red chilli powder , to taste",
+            "sunflower oil , for greasing",
+            "TOMATO & RAISIN CHUTNEY",
+            "50 g golden raisins",
+            "300 g ripe tomatoes",
+            "2 cm piece of ginger",
+            "a few sprigs of fresh coriander",
+            "1 tablespoon sunflower oil",
+            "1 tablespoon panch phoran , (see note)",
+            "1 small dried red chilli",
+            "1 tablespoon tomato pur\u00e9e",
+            "100 g palm sugar",
+            "60 ml white wine vinegar",
+            "\u00bd teaspoon ground coriander",
+            "\u00bc teaspoon garam masala",
+            "AVOCADO & ROCKET SALAD",
+            "2 ripe avocados",
+            "1 large grapefruit",
+            "\u00bd medium red onion",
+            "1 small bunch of baby rocket",
+            "2 tablespoon olive oil",
+            "1 tablespoon aged balsamic vinegar"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "681",
+                "26.6g",
+                "4g",
+                "20.5g",
+                "82.2g",
+                "53g"
+            ],
+            [
+                "34%",
+                "38%",
+                "20%",
+                "41%",
+                "32%",
+                "59%"
+            ]
+        ]
+    },
+    "pancakes-usa-stylie": {
+        "ingredients": [
+            "3 large free-range eggs",
+            "115 g plain flour",
+            "1 heaped teaspoon baking powder",
+            "140 ml milk"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "254",
+                "5.7g",
+                "1.7g",
+                "9.4g",
+                "40.9g",
+                "19.3g"
+            ],
+            [
+                "13%",
+                "8%",
+                "9%",
+                "19%",
+                "16%",
+                "21%"
+            ]
+        ]
+    },
+    "banana-pancakes": {
+        "ingredients": [
+            "3 large free-range eggs",
+            "115 g plain flour",
+            "1 heaped teaspoon baking powder",
+            "140 ml milk",
+            "1 pinch salt",
+            "2 knobs butter",
+            "3 tablespoons caster sugar",
+            "4 bananas",
+            "cr\u00e8me fra\u00eeche , to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "274",
+                "10.0g",
+                "5.0g",
+                "7.2g",
+                "37.6g",
+                "22.4g"
+            ],
+            [
+                "14%",
+                "14%",
+                "25%",
+                "14%",
+                "14%",
+                "25%"
+            ]
+        ]
+    },
+    "one-cup-brunch-pancakes": {
+        "ingredients": [
+            "1 cup self-raising flour",
+            "1 cup milk",
+            "sea salt",
+            "1 large free-range egg",
+            "1 corn on the cob",
+            "20 g feta cheese",
+            "8 rashers higher-welfare smoked streaky bacon",
+            "1 ripe avocado",
+            "sea salt",
+            "freshly ground black pepper",
+            "2 limes",
+            "6 tablespoons fat-free natural yoghurt",
+            "hot chilli sauce",
+            "a few sprigs of fresh coriander"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "393",
+                "16.9g",
+                "5.5g",
+                "17.2g",
+                "46g",
+                "7.9g",
+                "2.8g",
+                "2.7g"
+            ],
+            [
+                "20%",
+                "24%",
+                "28%",
+                "34%",
+                "18%",
+                "9%",
+                "47%",
+                null
+            ]
+        ]
+    },
+    "cr-pes-with-banana-greek-yoghurt-": {
+        "ingredients": [
+            "CR\u00caPES",
+            "",
+            "130 g sorghum flour",
+            "300 ml whole milk",
+            "2 tablespoons full-fat Greek yoghurt",
+            "2 large free-range eggs",
+            "unsalted butter, coconut oil or duck fat , for frying",
+            "FILLING",
+            "",
+            "4 ripe bananas , or other fruit",
+            "1 lemon",
+            "50 g flaked almonds , or shredded coconut",
+            "100 g full-fat Greek yoghurt",
+            "TO SERVE",
+            "",
+            "runny honey or maple syrup"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "420",
+                "18.7g",
+                "6.1g",
+                "15.5g",
+                "48.2g",
+                "24.7g",
+                "0.8g",
+                "4.5g"
+            ],
+            [
+                "21%",
+                "27%",
+                "31%",
+                "31%",
+                "19%",
+                "27%",
+                "13%",
+                null
+            ]
+        ]
+    },
+    "socca-with-caramelised-onions": {
+        "ingredients": [
+            "125 g chickpea flour",
+            "1 teaspoon olive oil",
+            "4 large onions",
+            "\u00bd a bunch of fresh rosemary",
+            "12 anchovy fillets",
+            "200 g black olives (stone in)",
+            "30 g unsalted butter",
+            "1 tablespoon caster sugar"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "122",
+                "6.4g",
+                "2.4g",
+                "5g",
+                "11.6g",
+                "5g"
+            ],
+            [
+                "6%",
+                "9%",
+                "12%",
+                "10%",
+                "4%",
+                "6%"
+            ]
+        ]
+    },
+    "breakfast-pancakes": {
+        "ingredients": [
+            "1 cup of self-raising flour",
+            "1 cup of semi-skimmed milk",
+            "1 large free-range egg",
+            "1 pear",
+            "a few knobs unsalted butter",
+            "natural yoghurt",
+            "runny honey"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "396",
+                "15.9g",
+                "8.6g",
+                "10.1g",
+                "56.9g",
+                "6.8g",
+                "1.2g",
+                "2.8g"
+            ],
+            [
+                "20%",
+                "23%",
+                "43%",
+                "20%",
+                "22%",
+                "8%",
+                "20%",
+                null
+            ]
+        ]
+    },
+    "coconut-pancakes-with-pomegranate-jewels": {
+        "ingredients": [
+            "1 free-range egg",
+            "1 cup self-raising flour",
+            "1 teaspoon baking powder , optional",
+            "1 cup milk",
+            "8 tablespoons desiccated coconut",
+            "20 g butter",
+            "1 pomegranate"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "315",
+                "15.4g",
+                "10.3g",
+                "8.9g",
+                "33.7g",
+                "5.0g"
+            ],
+            [
+                "16%",
+                "22%",
+                "52%",
+                "18%",
+                "13%",
+                "6%"
+            ]
+        ]
+    },
+    "buckwheat-crepes-with-poached-apple-pear": {
+        "ingredients": [
+            "3 free-range eggs",
+            "100 g butter , melted, plus a knob to grease the cr\u00eape pan",
+            "275 ml good-quality cider",
+            "250 g buckwheat flour",
+            "pouring cream , to serve",
+            "1 apple , peeled, cored and cut into large chunks",
+            "4 pears , peeled, cored and cut into large chunks",
+            "150 ml good-quality cider",
+            "1 generous splash of calvados",
+            "90 g sugar",
+            "1 vanilla pod",
+            "1 lemon , zest of",
+            "1 orange , zest of"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "306",
+                "13.7g",
+                "7.3g",
+                "6.9g",
+                "35.6g",
+                "17.3g"
+            ],
+            [
+                "15%",
+                "20%",
+                "37%",
+                "14%",
+                "14%",
+                "19%"
+            ]
+        ]
+    }
+}

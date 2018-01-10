@@ -1,0 +1,1172 @@
+{
+    "tormenta-negra": {
+        "ingredients": [
+            "10 - 15 ml lime juice , plus 1/2 lime to garnish",
+            "50 ml Bacardi Carta Negra rum",
+            "3 dashes of Angustura bitters",
+            "100 ml ginger beer",
+            "a sprig of mint , to garnish"
+        ],
+        "nutrition": [
+            [],
+            [],
+            []
+        ]
+    },
+    "roasted-concertina-squid-with-grilled-leeks-and-a-warm-chorizo-dressing": {
+        "ingredients": [
+            "4 medium-sized squid , from sustainable sources, ask your fishmonger, skinned, cleaned and prepared (tentacles removed but reserved)",
+            "8 baby leeks , outer leaves trimmed back, washed",
+            "olive oil",
+            "sea salt",
+            "freshly ground black pepper",
+            "1 bulb fennel , cut into thin wedges, herby tops reserved",
+            "1 radicchio , leaves separated, washed and spun dry",
+            "2 lemons , halved",
+            "For the chorizo dressing",
+            "olive oil",
+            "100 g iberico chorizo sausage , chopped into small pieces",
+            "1 sprig fresh rosemary , leaves picked and chopped",
+            "2 cloves garlic , peeled and finely grated",
+            "extra virgin olive oil",
+            "3 tablespoons balsamic vinegar",
+            "1 lemon , juice of"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "238",
+                "15.9g",
+                "3.7g",
+                "29.4g",
+                "8.8g",
+                "5.9g",
+                "1.11g",
+                "1.5g"
+            ],
+            [
+                "12%",
+                "23%",
+                "19%",
+                "59%",
+                "3%",
+                "7%",
+                "19%",
+                null
+            ]
+        ]
+    },
+    "chicken-paella": {
+        "ingredients": [
+            "400 g quality chorizo",
+            "1 small onion",
+            "50 g jarred piquillo peppers",
+            "\u00bd a bunch of fresh flat-leaf parsley",
+            "22 free-range chicken drumettes",
+            "2 tablespoons extra virgin olive oil",
+            "1 teaspoon smoked paprika",
+            "2 tablespoon tomato pure\u00e9",
+            "400 g Bomba paella rice",
+            "120 ml white wine",
+            "750 ml organic chicken stock",
+            "200 g frozen peas",
+            "1 lemon"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "712",
+                "35.4g",
+                "11.4g",
+                "49.8g",
+                "45g",
+                "3.6g",
+                "1.5g",
+                "3g"
+            ],
+            [
+                "36%",
+                "51%",
+                "57%",
+                "100%",
+                "17%",
+                "4%",
+                "25%",
+                null
+            ]
+        ]
+    },
+    "potato-and-chorizo-omelette-with-a-kinda-parsley-salad": {
+        "ingredients": [
+            "4 small waxy potatoes , scrubbed and cut into chunks",
+            "sea salt",
+            "freshly ground black pepper",
+            "6 large free-range eggs",
+            "2 x 60 g iberico chorizo sausages , cut into 1cm thick slices",
+            "2 sprigs fresh rosemary , leaves picked",
+            "2 shallots , peeled and very finely sliced",
+            "1 lemon , juice of",
+            "extra virgin olive oil",
+            "1 bunch fresh flat-leaf parsley , leaves picked"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "671",
+                "44.4g",
+                "14.8g",
+                "43.0g",
+                "22.4g",
+                "1.1g"
+            ],
+            [
+                "34%",
+                "63%",
+                "74%",
+                "86%",
+                "9%",
+                "1%"
+            ]
+        ]
+    },
+    "summer-pisto-frittata": {
+        "ingredients": [
+            "6 large free-range eggs",
+            "sea salt",
+            "freshly ground black pepper",
+            "50 g freshly podded peas , plus a small handful for the salad",
+            "50 g freshly podded broad beans",
+            "a few sprigs of fresh mint",
+            "1 lemon",
+            "20 g Parmesan cheese",
+            "extra virgin olive oil",
+            "\u00bd a small bunch of asparagus",
+            "olive oil",
+            "10 g feta cheese",
+            "for the salad",
+            "2 ripe tomatoes",
+            "a small handful peas shoots",
+            "a small handful rocket",
+            "optional:",
+            "10 g feta cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "363",
+                "28.1g",
+                "6.9g",
+                "20.3g",
+                "5.3g",
+                "3.7g",
+                "1.5g",
+                "1.2g"
+            ],
+            [
+                "18%",
+                "40%",
+                "35%",
+                "41%",
+                "2%",
+                "4%",
+                "25%",
+                null
+            ]
+        ]
+    },
+    "seafood-paella": {
+        "ingredients": [
+            "2 green peppers",
+            "2 red peppers",
+            "200 ml olive oil",
+            "750 g monkfish, from sustainable sources",
+            "500 g squid, cleaned, from sustainable sources",
+            "125 g mussels, debearded, from sustainable sources",
+            "125 g clams, debearded, from sustainable sources",
+            "1 kg calasparra or bomba paella rice",
+            "1 large pinch of saffron",
+            "1 tesapoon paprika",
+            "8 large prawns, from sustainable sources",
+            "extra virgin olive oil",
+            "PRAWN STOCK",
+            "1 onion",
+            "6 cloves of garlic",
+            "olive oil",
+            "1 tablespoon paprika",
+            "2 fresh bay leaves",
+            "shells and heads from 30 large prawns (ask your fishmonger for these), from sustainable sources",
+            "200 ml dry white wine",
+            "2 litres organic fish stock",
+            "SOFRITO",
+            "3 large onions",
+            "3 cloves of garlic",
+            "olive oil",
+            "\u00bd tablespoon papriks",
+            "100 ml dry white wine",
+            "6 ripe tomatoes"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "946",
+                "35.3g",
+                "5.4g",
+                "40.5g",
+                "111.5g",
+                "9.5g",
+                "0.8g",
+                "4.8g"
+            ],
+            [
+                "47%",
+                "50%",
+                "27%",
+                "81%",
+                "43%",
+                "11%",
+                "13%",
+                null
+            ]
+        ]
+    },
+    "roasted-chilli-frittata": {
+        "ingredients": [
+            "4\u20138 chillies , a mixture of green, red and yellow",
+            "1 red or green pepper , optional",
+            "1 tbsp red wine vinegar",
+            "olive oil",
+            "6 sprigs flat-leaf parsley , leaves picked, stalks finely chopped",
+            "1 knob of butter",
+            "5 large free-range eggs",
+            "1 handful of grated Parmesan",
+            "1 clove of garlic , finely chopped",
+            "100 g goat's cheese , or 100g feta",
+            "salad leaves , to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "578",
+                "48.3g",
+                "18.6g",
+                "32.5g",
+                "3g",
+                "2.6g",
+                "2.7g",
+                "0.9g"
+            ],
+            [
+                "29%",
+                "69%",
+                "93%",
+                "65%",
+                "1%",
+                "3%",
+                "45%",
+                null
+            ]
+        ]
+    },
+    "tapas-feast-tortilla-glazed-chorizo-manchego-cheese-cured-meats-honey-stuffed-peppers-rolled-anchovies": {
+        "ingredients": [
+            "a few sprigs of fresh flat-leaf parsley",
+            "1 lemon",
+            "150 g cherry tomatoes",
+            "smoked paprika , for dusting",
+            "For the seasonings",
+            "olive oil",
+            "extra virgin olive oil",
+            "sea salt",
+            "black pepper",
+            "To serve",
+            "1 bottle sparkling water , to serve",
+            "1 orange , to serve",
+            "1 bottle dry sherry , chilled, to serve",
+            "For the tortilla",
+            "250 g baby new potatoes",
+            "1 small red onion",
+            "1 teaspoon fennel seeds",
+            "2 cloves garlic",
+            "\u00bd small bunch fresh rosemary",
+            "8 free-range eggs",
+            "1 large handful prewashed rocket , to serve",
+            "For the chorizo",
+            "250 g semi-cured whole iberico chorizo",
+            "2 cloves garlic",
+            "4 tablespoons red wine vinegar",
+            "1 tablespoon runny honey",
+            "For the peppers",
+            "50 g Manchego cheese",
+            "1 loaf ciabatta",
+            "50 g blanched almonds",
+            "1 small bunch fresh thyme",
+            "red wine vinegar",
+            "450 g jarred whole peppers",
+            "For the Manchego",
+            "100 g Manchego cheese",
+            "100 g quality Spanish cured meats, such as pata negra",
+            "runny honey , for drizzling",
+            "instant or quality ground coffee",
+            "1 handful black olives",
+            "2 sprigs of fresh thyme or oregano , optional",
+            "For the anchovies",
+            "50 g chilled marinated or dressed anchovies"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "730",
+                "54.6g",
+                "18.8g",
+                "40g",
+                "20.8g",
+                "11.5g",
+                "6.5g",
+                "2.4g"
+            ],
+            [
+                "37%",
+                "78%",
+                "94%",
+                "80%",
+                "8%",
+                "13%",
+                "108%",
+                null
+            ]
+        ]
+    },
+    "spanish-fish-and-chorizo-soup": {
+        "ingredients": [
+            "For the soup",
+            "olive oil",
+            "2 cloves garlic , peeled and sliced",
+            "2 fresh red chillies , deseeded and finely sliced",
+            "1 bunch fresh basil , leaves picked and stalks finely chopped",
+            "1 iberico sausage , around 200g, sliced",
+            "\u00bd bottle white wine",
+            "2 x 400 g tinned plum tomatoes",
+            "1 handful basmati rice",
+            "400 g tinned chickpeas , drained",
+            "sea salt",
+            "freshly ground black pepper",
+            "2 bream fillets , from sustainable sources, ask your fishmonger, skinned and pin-boned",
+            "2 pollock fillets , from sustainable sources, ask your fishmonger, skinned and pin-boned",
+            "12 raw prawns , from sustainable sources, ask your fishmonger, peeled, tails left on",
+            "2 lemons , cut into wedges",
+            "For the pangrattato",
+            "2 handfuls breadcrumbs",
+            "1 bunch fresh flat-leaf parsley , roughly chopped",
+            "1 lemon , zest of"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "706",
+                "32.5g",
+                "7.6g",
+                "48.4g",
+                "41.5g",
+                "11.3g",
+                "2.99g",
+                "7.2g"
+            ],
+            [
+                "35%",
+                "46%",
+                "38%",
+                "97%",
+                "16%",
+                "13%",
+                "50%",
+                null
+            ]
+        ]
+    },
+    "slow-roasted-spiced-pork-loin-with-black-eyed-beans-and-tomatoes": {
+        "ingredients": [
+            "2 kg higher-welfare rib-end loin of pork , skin on, French-trimmed",
+            "sea salt",
+            "freshly ground black pepper",
+            "5 teaspoons smoked paprika",
+            "1 lemon , juice of",
+            "olive oil",
+            "3 red onions , finely sliced",
+            "6-8 fresh red, yellow and green chillies",
+            "120 g small whole iberico chorizo sausages , thickly sliced",
+            "6 bay leaves",
+            "2 sprigs fresh rosemary , finely chopped",
+            "3 x 400 g good-quality tinned plum tomatoes , roughly chopped",
+            "2 handfuls fresh ripe tomatoes , halved",
+            "4 x 410 g tinned black-eyed beans , drained",
+            "5 cloves garlic , peeled and finely chopped",
+            "1 handful fresh flat-leaf parsley , chopped",
+            "red wine vinegar",
+            "soured cream , to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "906",
+                "51.5g",
+                "18.5g",
+                "53.8g",
+                "46.8g",
+                "10.5g",
+                "1.17g",
+                "15.6g"
+            ],
+            [
+                "45%",
+                "74%",
+                "93%",
+                "107%",
+                "18%",
+                "12%",
+                "20%",
+                null
+            ]
+        ]
+    },
+    "roasted-sweet-garlic-bread-and-almond-soup": {
+        "ingredients": [
+            "3 large bulbs fresh garlic , broken up and skins left on",
+            "1 medium white onion , peeled and finely chopped",
+            "extra virgin olive oil",
+            "285 ml single cream",
+            "1 litre organic chicken or vegetable stock",
+            "1 large loaf ciabatta bread",
+            "2 tablespoons sherry or white wine vinegar",
+            "150 g whole blanched almonds , lightly toasted in the oven",
+            "sea salt",
+            "freshly ground black pepper",
+            "3 oranges , peeled and segmented",
+            "1 handful fresh coriander , leaves picked",
+            "1 handful fresh mint , leaves picked"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "550",
+                "36.9g",
+                "9.2g",
+                "16.1g",
+                "41.6g",
+                "13.7g",
+                "2.50g",
+                "5.4g"
+            ],
+            [
+                "28%",
+                "53%",
+                "46%",
+                "32%",
+                "16%",
+                "15%",
+                "42%",
+                null
+            ]
+        ]
+    },
+    "patsy-s-garlic-chilli-prawns": {
+        "ingredients": [
+            "8 large raw shell-on king prawns , from sustainable sources",
+            "3 cloves of garlic",
+            "1 fresh red chilli",
+            "a few sprigs of fresh flat-leaf parsley",
+            "50 ml olive oil , ideally Spanish",
+            "\u00bd teaspoon smoked paprika",
+            "1 lemon"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "281",
+                "25.6g",
+                "3.7g",
+                "10.8g",
+                "2.2g",
+                "0.7g",
+                "0.8g",
+                "0.4g"
+            ],
+            [
+                "14%",
+                "37%",
+                "19%",
+                "22%",
+                "1%",
+                "1%",
+                "13%",
+                null
+            ]
+        ]
+    },
+    "super-tasty-spanish-roast-chicken": {
+        "ingredients": [
+            "1.6 kg potatoes , peeled and cut into 2.5cm dice",
+            "4 lemons",
+            "1 handful fresh flat-leaf parsley",
+            "2 kg higher-welfare chicken",
+            "sea salt",
+            "freshly ground black pepper",
+            "300 g iberico chorizo sausage",
+            "olive oil",
+            "2 cloves garlic , peeled and finely chopped"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "439",
+                "16.9g",
+                "5.7g",
+                "37.9g",
+                "36g",
+                "2.4g",
+                "0.98g",
+                "2.7g"
+            ],
+            [
+                "22%",
+                "24%",
+                "29%",
+                "76%",
+                "14%",
+                "3%",
+                "16%",
+                null
+            ]
+        ]
+    },
+    "spanish-style-prawns-with-fennel": {
+        "ingredients": [
+            "2 cloves of garlic",
+            "1 bulb of fennel",
+            "a few sprigs of fresh flat-leaf parsley",
+            "olive oil",
+            "750 g ripe cherry tomatoes",
+            "1 large wineglass of white wine",
+            "10 large raw prawns, from sustainable sources",
+            "1 lemon"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "343",
+                "12.6g",
+                "1.9g",
+                "22.8g",
+                "16.2g",
+                "15.3g",
+                "1.6g",
+                "8g"
+            ],
+            [
+                "17%",
+                "18%",
+                "10%",
+                "46%",
+                "6%",
+                "17%",
+                "27%",
+                null
+            ]
+        ]
+    },
+    "scrumptious-spanish-chickpea-and-chorizo-soup": {
+        "ingredients": [
+            "olive oil",
+            "150 g iberico chorizo sausage , finely chopped",
+            "1 onion , peeled and finely chopped",
+            "1 clove garlic , peeled and finely chopped",
+            "2 sticks celery , finely chopped",
+            "500 g fresh spinach , washed and chopped",
+            "8 fresh tomatoes , deseeded and roughly chopped",
+            "410 g good-quality tinned cooked chickpeas , drained",
+            "1.3 litres organic chicken stock",
+            "sea salt",
+            "freshly ground black pepper",
+            "55 g quality pata negra, Spanish ham or prosciutto , finely chopped",
+            "extra virgin olive oil",
+            "2 free-range eggs , hard-boiled"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "509",
+                "31.5g",
+                "8.5g",
+                "28g",
+                "30.4g",
+                "13.4g",
+                "5.24g",
+                "11.8g"
+            ],
+            [
+                "25%",
+                "45%",
+                "43%",
+                "56%",
+                "12%",
+                "15%",
+                "87%",
+                null
+            ]
+        ]
+    },
+    "my-moorish-pork-chops": {
+        "ingredients": [
+            "a few sprigs fresh oregano or marjoram , leaves picked",
+            "sea salt",
+            "freshly ground black pepper",
+            "1 small handful raisins",
+            "good-quality dry sherry",
+            "Spanish extra virgin olive oil",
+            "4 large, thick higher-welfare pork chops , approximately 350g each, bone in",
+            "For the beans",
+            "a few slices pata negra , trimmed fat of, and some pata negra offcuts (or 2 rashers higher-welfare smoked streaky bacon, roughly chopped, or pancetta)",
+            "olive oil",
+            "1 red onion , peeled and finely chopped",
+            "1 large red pepper , deseeded and roughly chopped",
+            "a few sprigs fresh rosemary , leaves picked",
+            "a few fresh bay leaves",
+            "540 g jarred white beans or butter beans , drained",
+            "400 g Swiss chard , stalks trimmed, or spinach leaves"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "946",
+                "66.4g",
+                "22g",
+                "58.4g",
+                "26.8g",
+                "8.8g"
+            ],
+            [
+                "47%",
+                "95%",
+                "110%",
+                "116%",
+                "10%",
+                "10%"
+            ]
+        ]
+    },
+    "paella": {
+        "ingredients": [
+            "6 free-range chicken thighs , skin on, bone in",
+            "plain flour",
+            "olive oil",
+            "100 g quality chorizo",
+            "1 onion",
+            "4 cloves of garlic",
+            "\u00bd a bunch of fresh flat-leaf parsley",
+            "6 rashers of higher-welfare pancetta or smoked streaky bacon",
+            "2 litres organic chicken stock",
+            "2 large pinches of saffron",
+            "1 heaped teaspoon smoked paprika",
+            "500 g paella rice",
+            "2 small squid , from sustainable sources, optional",
+            "2 handfuls of fresh or frozen peas",
+            "10 large raw shell-on king prawns , from sustainable sources",
+            "500 g mussels , (cleaned) from sustainable sources, optional",
+            "1 lemon"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "858",
+                "23.2g",
+                "6.2g",
+                "76.5g",
+                "85.7g",
+                "7.3g"
+            ],
+            [
+                "43%",
+                "33%",
+                "31%",
+                "153%",
+                "33%",
+                "8%"
+            ]
+        ]
+    },
+    "spanish-rabbit-stew": {
+        "ingredients": [
+            "olive oil",
+            "2 small wild rabbits , jointed (if using farmed rabbits, you might only need 1 as they tend to be larger)",
+            "3 cloves of garlic",
+            "12 small red onions",
+            "\u00bd tablespoon sweet paprika",
+            "2 sprigs of fresh rosemary",
+            "750 ml albari\u00f1o wine",
+            "1 x 250 - 300 g jar of roasted red peppers"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "410",
+                "17g",
+                "5g",
+                "37g",
+                "7g",
+                "6g"
+            ],
+            [
+                "21%",
+                "24%",
+                "25%",
+                "74%",
+                "3%",
+                "7%"
+            ]
+        ]
+    },
+    "chicken-chorizo-paella": {
+        "ingredients": [
+            "2 cloves of garlic",
+            "1 onion",
+            "1 carrot",
+            "\u00bd a bunch of fresh flat-leaf parsley , (15g)",
+            "70 g quality chorizo",
+            "2 free-range chicken thighs , skin off, bone out",
+            "olive oil",
+            "1 teaspoon sweet smoked paprika",
+            "1 red pepper",
+            "1 tablespoon tomato pure\u0301e",
+            "1 organic chicken stock cube",
+            "300 g paella rice",
+            "100 g frozen peas",
+            "200 g frozen peeled cooked prawns , from sustainable sources",
+            "1 lemon"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "494",
+                "12g",
+                "3.3g",
+                "26.5g",
+                "75.7g",
+                "8.5g",
+                "1.6g",
+                "5.7g"
+            ],
+            [
+                "25%",
+                "17%",
+                "17%",
+                "53%",
+                "29%",
+                "9%",
+                "27%",
+                null
+            ]
+        ]
+    },
+    "mi-pescado-a-la-sal-my-fish-baked-in-salt": {
+        "ingredients": [
+            "For the fish",
+            "1 kg coarse rock salt",
+            "2 large free-range eggs",
+            "1\u00bd tablespoons fennel seeds",
+            "1 lemon",
+            "600g sea bass , or 2 portion-sized bream, from sustainable sources, ask your fishmonger, gutted, scales left on, gills out",
+            "1 small bunch fresh basil",
+            "1 small bunch fresh flat-leaf parsley",
+            "For the aioli",
+            "3 large cloves garlic , peeled",
+            "1 pinch saffron",
+            "sea salt",
+            "50 ml olive oil",
+            "50 ml good-quality Spanish extra virgin olive oil",
+            "For the side salad",
+            "\u00bd cucumber , peeled",
+            "1 large handful green olives , stoned",
+            "2 jarred red peppers",
+            "a few sprigs fresh flat-leaf parsley , leaves picked and chopped",
+            "freshly ground black pepper"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "823",
+                "59.4g",
+                "8.5g",
+                "65.0g",
+                "4.7g",
+                "2.5g"
+            ],
+            [
+                "41%",
+                "85%",
+                "43%",
+                "130%",
+                "2%",
+                "3%"
+            ]
+        ]
+    },
+    "baked-paprika-cheese": {
+        "ingredients": [
+            "Torta del Casar cheese , in box",
+            "2 teaspoons sweet smoked paprika , plus extra for sprinkling",
+            "country-style bread , toasted or grilled, to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "287",
+                "24g",
+                "15g",
+                "17g",
+                "0.1g",
+                "0g"
+            ],
+            [
+                "14%",
+                "34%",
+                "75%",
+                "34%",
+                "0%",
+                "0%"
+            ]
+        ]
+    },
+    "the-best-chorizo-sandwich": {
+        "ingredients": [
+            "4 plum tomatoes , deseeded and diced",
+            "1 fresh red chilli , deseeded and finely sliced",
+            "extra virgin olive oil",
+            "410 g tinned chickpeas , drained and rinsed",
+            "\u00bd lemon , finely grated zest and juice of",
+            "3 medium-size iberico chorizo sausages",
+            "4 bread rolls",
+            "1 handful wild rocket"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "829",
+                "47g",
+                "17.4g",
+                "43.9g",
+                "60.3g",
+                "8.9g",
+                "4.39g",
+                "7.5g"
+            ],
+            [
+                "41%",
+                "67%",
+                "87%",
+                "88%",
+                "23%",
+                "10%",
+                "73%",
+                null
+            ]
+        ]
+    },
+    "my-favourite-paella": {
+        "ingredients": [
+            "olive oil",
+            "2 raw iberico chorizo sausages , approximately 250g in total, thickly sliced",
+            "300 g higher-welfare pork belly , skin removed, cut into 1cm pieces",
+            "1 green pepper , deseeded and roughly chopped",
+            "1 red pepper , deseeded and roughly chopped",
+            "5 cloves garlic , peeled and roughly chopped",
+            "1 onion , peeled and roughly chopped",
+            "1 small bunch fresh flat-leaf parsley , leaves picked and roughly chopped, stalks finely chopped",
+            "sea salt",
+            "freshly ground black pepper",
+            "1 good pinch saffron",
+            "400 g clams or mussels , from sustainable sources, ask your fishmonger, scrubbed clean and debearded",
+            "300 g paella rice",
+            "200 g jarred red peppers in oil, drained and torn into pieces",
+            "400 g tinned chopped tomatoes",
+            "1 litre organic chicken or vegetable stock",
+            "12 large prawns , from sustainable sources, ask your fishmonger, shells on",
+            "150 g squid , from sustainable sources, ask your fishmonger, cleaned and finely sliced",
+            "150 g green beans , sliced very thinly at an angle",
+            "1 lemon , cut into wedges"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "822",
+                "49.8g",
+                "16.3g",
+                "38.3g",
+                "55.6g",
+                "9.8g"
+            ],
+            [
+                "41%",
+                "71%",
+                "82%",
+                "77%",
+                "21%",
+                "11%"
+            ]
+        ]
+    },
+    "crema-catalana": {
+        "ingredients": [
+            "500 ml whole milk",
+            "\u00bd an orange",
+            "\u00bd a lemon",
+            "\u00bd a stick of cinnamon",
+            "1 vanilla pod",
+            "7 large free-range egg yolks",
+            "95 g sugar, plus extra to serve",
+            "1 heaped tesapoon cornflour"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "261",
+                "9.6g",
+                "4.3g",
+                "6.7g",
+                "37.7g",
+                "34.3g"
+            ],
+            [
+                "13%",
+                "14%",
+                "22%",
+                "13%",
+                "15%",
+                "38%"
+            ]
+        ]
+    },
+    "spanish-tortilla": {
+        "ingredients": [
+            "300 g waxy potatoes",
+            "1 onion",
+            "olive oil",
+            "5 large free-range eggs"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "155",
+                "9.7g",
+                "2g",
+                "7.3g",
+                "11g",
+                "2g"
+            ],
+            [
+                "8%",
+                "14%",
+                "10%",
+                "15%",
+                "4%",
+                "2%"
+            ]
+        ]
+    }
+}

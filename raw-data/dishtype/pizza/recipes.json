@@ -1,0 +1,892 @@
+{
+    "pizza-dough": {
+        "ingredients": [
+            "1 kg white bread flour or Tipo '00' flour , or 800g strong white bread flour or Tipo '00' flour, plus 200g finely ground semolina flour",
+            "1 teaspoon fine sea salt",
+            "2 x 7 g dried yeast sachets",
+            "1 tablespoon golden caster sugar",
+            "4 tablespoons extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "572",
+                "7.2g",
+                "1.0g",
+                "19.4g",
+                "105.3g",
+                "3.6g"
+            ],
+            [
+                "29%",
+                "10%",
+                "5%",
+                "39%",
+                "41%",
+                "4%"
+            ]
+        ]
+    },
+    "deep-pan-pizza": {
+        "ingredients": [
+            "For the dough:",
+            "",
+            "650 ml lukewarm water",
+            "1 x 7 g sachet of dried yeast",
+            "1 tablespoon golden caster sugar",
+            "1 level tablespoon fine sea salt",
+            "1 kg strong white bread flour , plus extra for dusting",
+            "For the tomato sauce:",
+            "",
+            "a swig of white wine vinegar",
+            "1 clove of garlic , peeled",
+            "a handful of fresh basil leaves",
+            "1 x 400 g tin of chopped tomatoes",
+            "sea salt and freshly ground black pepper",
+            "For the toppings:",
+            "",
+            "olive oil",
+            "3 red onions , peeled and finely sliced",
+            "a few sprigs of fresh thyme , leaves picked",
+            "4 higher-welfare pork sausages , the best quality you can afford",
+            "1 dried red chilli",
+            "1 teaspoon fennel seeds",
+            "a good pinch of dried oregano",
+            "100 g fresh buffalo mozzarella",
+            "a handful of fresh basil leaves",
+            "2 fresh red chillies , finely sliced",
+            "2 large handfuls of freshly grated Parmesan cheese",
+            "12 slices of higher-welfare pancetta"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "594",
+                "18.8g",
+                "7.3g",
+                "25.9g",
+                "78.5g",
+                "8g"
+            ],
+            [
+                "30%",
+                "27%",
+                "37%",
+                "52%",
+                "30%",
+                "9%"
+            ]
+        ]
+    },
+    "red-grape-pizza-with-honey-rosemary-and-pecorino": {
+        "ingredients": [
+            "1\u00bd x 7 g dried yeast sachets",
+            "5 teaspoons runny honey",
+            "310 ml tepid water",
+            "500 g white bread flour , plus extra for dusting",
+            "1 generous pinch salt",
+            "a few sprigs fresh rosemary",
+            "2 lugs olive oil",
+            "2 handfuls red grapes",
+            "50 g pecorino cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "607",
+                "14.7g",
+                "4.0g",
+                "21.3g",
+                "95.3g",
+                "11.0g"
+            ],
+            [
+                "30%",
+                "21%",
+                "20%",
+                "43%",
+                "37%",
+                "12%"
+            ]
+        ]
+    },
+    "mozzarella-anchovies-chilli-capers-and-parsley-pizza-topping": {
+        "ingredients": [
+            "4 anchovy fillets",
+            "\u00bd fresh red chilli , sliced",
+            "1 heaped teaspoon small capers , rinsed if salty",
+            "extra virgin olive oil",
+            "\u00bd lemon , zest and juice of",
+            "3 tablespoons tomato sauce",
+            "50 g mozzarella",
+            "1 tablespoon finely sliced fresh flat-leaf parsley",
+            "sea salt",
+            "freshly ground black pepper"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "506",
+                "44.8g",
+                "12.5g",
+                "19.3g",
+                "5.1g",
+                "2.6g"
+            ],
+            [
+                "25%",
+                "64%",
+                "63%",
+                "39%",
+                "2%",
+                "3%"
+            ]
+        ]
+    },
+    "nyc-style-pizza": {
+        "ingredients": [
+            "1 kg strong white bread flour , plus extra for dusting",
+            "1 x 7 g sachet of yeast",
+            "1 teaspoon caster sugar",
+            "fine sea salt and freshly ground black pepper",
+            "olive oil",
+            "extra virgin olive oil",
+            "For the tomato sauce",
+            "3 cloves of garlic , peeled",
+            "\u00bd a bunch of fresh basil , leaves picked",
+            "2 x 400 g tins of plum tomatoes",
+            "For the topping",
+            "\u00bd teaspoon fennel seeds",
+            "150 g pork mince",
+            "2 sprigs of fresh rosemary , leaves picked",
+            "300 g block of mozzarella cheese , for grating",
+            "30 jalape\u00f1o chillies"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "517",
+                "14.4g",
+                "5.6g",
+                "21.8g",
+                "80g",
+                "5.5g",
+                "0.6g",
+                "3.7g"
+            ],
+            [
+                "26%",
+                "21%",
+                "28%",
+                "44%",
+                "31%",
+                "6%",
+                "10%",
+                null
+            ]
+        ]
+    },
+    "green-and-red-grapes-rosemary-pine-nuts-and-ricotta-pizza-topping": {
+        "ingredients": [
+            "1 handful red and green grapes , halved and deseeded",
+            "1 tablespoon pine nuts",
+            "1 small handful fresh rosemary , leaves picked",
+            "2 tablespoons vanilla sugar",
+            "1 tablespoon white wine",
+            "1 heaped tablespoon crumbly ricotta",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "878",
+                "25.6g",
+                "3.6g",
+                "21.5g",
+                "135.6g",
+                "68.0g"
+            ],
+            [
+                "44%",
+                "37%",
+                "18%",
+                "43%",
+                "52%",
+                "76%"
+            ]
+        ]
+    },
+    "smoked-pancetta-mozzarella-fresh-chilli-and-tomatoes-pizza-topping": {
+        "ingredients": [
+            "6 tablespoons tomato sauce",
+            "50 g mozzarella",
+            "1 fresh red chilli , finely sliced",
+            "sea salt",
+            "freshly ground black pepper",
+            "4-5 slices higher-welfare smoked pancetta , thinly sliced",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "478",
+                "37.9g",
+                "13.4g",
+                "25.3g",
+                "8.0g",
+                "3.6g"
+            ],
+            [
+                "24%",
+                "54%",
+                "67%",
+                "51%",
+                "3%",
+                "4%"
+            ]
+        ]
+    },
+    "basic-pizza": {
+        "ingredients": [
+            "DOUGH (8 PIZZAS)",
+            "800 g strong white bread flour",
+            "200 g fine ground semolina flour or strong white bread flour",
+            "1 level tablespoon fine sea salt",
+            "2x7 g sachets of dried yeast",
+            "1 tablespoon golden caster sugar",
+            "TOMATO SAUCE (4 PIZZAS)",
+            "1 clove of garlic",
+            "1 bunch of fresh basil",
+            "olive oil",
+            "1 x 400 g tin of quality plum tomatoes",
+            "TOPPING (4 PIZZAS)",
+            "85 g mozzarella cheese",
+            ""
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "481",
+                "4.9g",
+                "1.8g",
+                "17.6g",
+                "97.9g",
+                "5.1g",
+                "1.5g",
+                "4.3g"
+            ],
+            [
+                "24%",
+                "7%",
+                "9%",
+                "35%",
+                "38%",
+                "6%",
+                "25%",
+                null
+            ]
+        ]
+    },
+    "quick-grilled-pizza": {
+        "ingredients": [
+            "250 g strong bread flour",
+            "2 teaspoons dried yeast",
+            "1 teaspoon caster sugar",
+            "olive oil",
+            "2 cloves of garlic",
+            "1 x 400 g tin of chopped tomatoes",
+            "a few sprigs of fresh basil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "393",
+                "17.2g",
+                "2.5g",
+                "8.8g",
+                "54.1g",
+                "4.2g",
+                "1.1g",
+                "2.8g"
+            ],
+            [
+                "20%",
+                "25%",
+                "13%",
+                "18%",
+                "21%",
+                "5%",
+                "18%",
+                null
+            ]
+        ]
+    },
+    "spicy-salami-courgette-basil-tomato-and-mozzarella-pizza-topping": {
+        "ingredients": [
+            "4 tablespoons tomato sauce",
+            "6 thin slices courgette",
+            "8 fresh basil leaves",
+            "10 thin slices spicy salami",
+            "50 g mozzarella",
+            "olive oil",
+            "sea salt",
+            "freshly ground black pepper"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "831",
+                "71.2g",
+                "25.8g",
+                "34.1g",
+                "11.8g",
+                "6.1g"
+            ],
+            [
+                "42%",
+                "101%",
+                "129%",
+                "68%",
+                "5%",
+                "7%"
+            ]
+        ]
+    },
+    "wood-fired-pizza": {
+        "ingredients": [
+            "1 kg strong white bread flour , (or 800g strong bread flour mixed with 200g semolina flour)",
+            "1 level teaspoon fine sea salt",
+            "2 x 7g sachets of dried yeast",
+            "1 tablespoon golden caster sugar",
+            "4 tablespoons extra-virgin olive oil",
+            "For the tomato sauce:",
+            "4 cloves of garlic",
+            "olive oil",
+            "1 bunch of fresh basil",
+            "3 x 400g tins of whole plum tomatoes",
+            "sea salt",
+            "freshly ground black pepper",
+            "For the topping:",
+            "1 small head of broccoli",
+            "4 quality anchovy fillets",
+            "1 fresh red chilli",
+            "2\u20133 Italian-style sausages",
+            "150 g Taleggio cheese",
+            "1 tablespoon fennel seeds"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt"
+            ],
+            [
+                "840",
+                "22g",
+                "7.1g",
+                "33.5g",
+                "136.5g",
+                "11.6g",
+                "2.2g"
+            ],
+            [
+                "42%",
+                "31%",
+                "36%",
+                "67%",
+                "53%",
+                "13%",
+                "37%"
+            ]
+        ]
+    },
+    "gluten-free-spring-flatbread-pizzas": {
+        "ingredients": [
+            "250 ml milk",
+            "1 x 7 g sachet of yeast",
+            "2\u00bd teaspoons caster sugar",
+            "65 g cornflour",
+            "425 g brown rice flour , plus extra for dusting",
+            "2 teaspoons gluten-free xanthan gum",
+            "1 large free-range egg",
+            "olive oil",
+            "\u00bd teaspoon bicarbonate of soda",
+            "2 teaspoons cider vinegar",
+            "300 g fresh or frozen peas",
+            "\u00bd bunch of fresh mint",
+            "250 g soft goat\u2019s cheese or curd",
+            "1 lemon",
+            "2 courgettes",
+            "fine polenta , for dusting",
+            "200 g watercress",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "447",
+                "13.8g",
+                "6.8g",
+                "16.4g",
+                "63.5g",
+                "8.7g"
+            ],
+            [
+                "22%",
+                "20%",
+                "34%",
+                "33%",
+                "24%",
+                "10%"
+            ]
+        ]
+    },
+    "fried-pizza-pizza-fritta": {
+        "ingredients": [
+            "1 basic pizza dough recipe",
+            "flour , for dusting",
+            "vegetable oil , for frying",
+            "2 x 150 g buffalo mozzarella balls",
+            "5 teaspoons dried oregano , optional",
+            "For the tomato sauce",
+            "extra virgin olive oil",
+            "1 clove garlic , peeled and finely sliced",
+            "1 bunch fresh basil , leaves picked",
+            "400 g good-quality tinned plum tomatoes",
+            "sea salt",
+            "freshly ground black pepper"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "505",
+                "22.3g",
+                "6.5g",
+                "16.6g",
+                "57.9g",
+                "3.7g"
+            ],
+            [
+                "25%",
+                "32%",
+                "33%",
+                "33%",
+                "22%",
+                "4%"
+            ]
+        ]
+    },
+    "gluten-free-pizza": {
+        "ingredients": [
+            "250 ml semi-skimmed milk",
+            "1 x 7 g sachet of dried yeast",
+            "2\u00bd teaspoons caster sugar",
+            "400 g gluten-free bread flour , plus extra for dusting",
+            "1 teaspoon xanthan gum",
+            "1 teaspoon fine sea salt",
+            "1 large free-range egg",
+            "olive oil",
+            "\u00bd teaspoon bicarbonate of soda",
+            "2 teaspoons cider vinegar",
+            "For the topping",
+            "\u00bd bunch of fresh basil",
+            "1 clove of garlic , peeled",
+            "1 x 400 g tin of plum tomatoes",
+            "sea salt",
+            "freshly ground black pepper",
+            "2 x 125 g balls of buffalo mozzarella"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "683",
+                "26.7g",
+                "11.4g",
+                "22.2g",
+                "89.5g",
+                "9g",
+                "2.0g",
+                "1.9g"
+            ],
+            [
+                "34%",
+                "38%",
+                "57%",
+                "44%",
+                "34%",
+                "10%",
+                "33%",
+                null
+            ]
+        ]
+    },
+    "potatoes-mozzarella-rosemary-thyme-and-tomato-pizza-topping": {
+        "ingredients": [
+            "6 tablespoons tomato sauce",
+            "4 new potatoes , cooked",
+            "1 small handful fresh rosemary leaves",
+            "1 teaspoon thyme tips",
+            "extra virgin olive oil",
+            "lemon juice",
+            "salt",
+            "freshly ground black pepper",
+            "50 g mozzarella"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "544",
+                "35.8g",
+                "11.6g",
+                "15.1g",
+                "38.0g",
+                "6.5g"
+            ],
+            [
+                "27%",
+                "51%",
+                "58%",
+                "30%",
+                "15%",
+                "7%"
+            ]
+        ]
+    },
+    "gennaro-s-mini-pizzas-with-hidden-veg-sauce": {
+        "ingredients": [
+            "PIZZA DOUGH",
+            "250 g strong white bread flour , or tipo 00, plus extra for dusting",
+            "250 g wholemeal flour",
+            "1 x 7 g sachet dried yeast",
+            "fine semolina , for dusting",
+            "HIDDEN VEG SAUCE",
+            "1 onion",
+            "100 g mushrooms",
+            "1 stick of celery",
+            "1 carrot",
+            "1 clove of garlic",
+            "olive oil",
+            "2 handfuls of baby spinach",
+            "3 sprigs of fresh orgeano",
+            "1 x 400 g tin of chopped tomatoes",
+            "BASIC TOPPING",
+            "2 x 125 g balls of mozzarella",
+            "fresh oregano",
+            "Parmesan cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "467",
+                "16.4g",
+                "6.8g",
+                "20.1g",
+                "23.9g",
+                "6.2g",
+                "0.9g",
+                "6.8g"
+            ],
+            [
+                "23%",
+                "23%",
+                "34%",
+                "40%",
+                "9%",
+                "7%",
+                "15%",
+                null
+            ]
+        ]
+    },
+    "easy-spelt-pizza": {
+        "ingredients": [
+            "200 g wholegrain spelt flour , plus extra to dust",
+            "2 teaspoons gluten-free baking powder",
+            "\u00bd tesapoon sea salt",
+            "\u00bc teaspoon sugar",
+            "100 ml buttermilk",
+            "1 tablespoons sunflower oil",
+            "1 large free-range egg",
+            "1 shallot",
+            "quality smoked salmon , from sustainable sources",
+            "150 g ricotta cheese",
+            "50 g rocket",
+            "2 teaspoons baby capers",
+            "1 wedge of lemon"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "644",
+                "24.7g",
+                "8.2g",
+                "35.9g",
+                "70.1g",
+                "6.3g",
+                "4g",
+                "8.9g"
+            ],
+            [
+                "32%",
+                "35%",
+                "41%",
+                "72%",
+                "27%",
+                "7%",
+                "67%",
+                null
+            ]
+        ]
+    },
+    "calzone": {
+        "ingredients": [
+            "1 pizza dough",
+            "flour , for dusting",
+            "olive oil",
+            "500 g mixed mushrooms (such as girolles, shiitake, enoki and chestnut) , cleaned and torn up",
+            "4 cloves garlic , peeled and finely sliced",
+            "4 sprigs fresh thyme , leaves picked",
+            "50 g butter",
+            "sea salt",
+            "freshly ground black pepper",
+            "200 ml quickest tomato sauce",
+            "300 g spinach leaves , washed and spun dry",
+            "2 x 125 g good-quality mozzarella pieces , torn into pieces"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "1301",
+                "31.5g",
+                "9.1g",
+                "30.4g",
+                "118.0g",
+                "5.4g"
+            ],
+            [
+                "65%",
+                "45%",
+                "46%",
+                "61%",
+                "45%",
+                "6%"
+            ]
+        ]
+    },
+    "egg-prosciutto-artichokes-olives-mozzarella-tomato-sauce-and-basil-pizza-topping": {
+        "ingredients": [
+            "6 tablespoons tomato sauce",
+            "2 baby artichokes",
+            "3 slices quality prosciutto",
+            "1 small handful olives , stone removed",
+            "1 small free-range egg",
+            "50 g mozzarella",
+            "extra virgin olive oil",
+            "sea salt",
+            "freshly ground black pepper"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "646",
+                "44.7g",
+                "14.7g",
+                "35.1g",
+                "16.1g",
+                "7.0g"
+            ],
+            [
+                "32%",
+                "64%",
+                "74%",
+                "70%",
+                "6%",
+                "8%"
+            ]
+        ]
+    },
+    "slow-roasted-shredded-pork-with-thyme-taleggio-and-lemon-dressed-rocket-pizza-dressing": {
+        "ingredients": [
+            "For the pork",
+            "1 kg higher-welfare pork shoulder",
+            "2 tablespoons fennel seeds",
+            "sea salt",
+            "freshly ground black pepper",
+            "olive oil",
+            "For each pizza topping",
+            "2 tablespoons tomato sauce",
+            "50 g Taleggio sauce",
+            "1 teaspoon fresh thyme leaves",
+            "1 small handful rocket",
+            "\u00bd lemon , juice of"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "472",
+                "35.9g",
+                "15.5g",
+                "32.9g",
+                "3.5g",
+                "2.3g"
+            ],
+            [
+                "24%",
+                "51%",
+                "78%",
+                "66%",
+                "1%",
+                "3%"
+            ]
+        ]
+    }
+}

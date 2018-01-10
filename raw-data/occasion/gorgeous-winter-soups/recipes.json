@@ -1,0 +1,2179 @@
+{
+    "poached-chicken-and-vegetable-soup": {
+        "ingredients": [
+            "1.6 kg whole higher-welfare chicken",
+            "4 carrots , peeled and sliced",
+            "1 heart celery , sliced, yellow leaves reserved",
+            "12 new potatoes , peeled",
+            "a few sprigs fresh thyme",
+            "2 large handfuls peas",
+            "1 leek , washed and shredded",
+            "1 small bunch fresh flat-leaf parsley , leaves picked and chopped"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "462",
+                "24.9g",
+                "6.9g",
+                "36.4g",
+                "20.5g",
+                "5.9g"
+            ],
+            [
+                "23%",
+                "36%",
+                "35%",
+                "73%",
+                "8%",
+                "7%"
+            ]
+        ]
+    },
+    "spinach-amp-tortellini-soup": {
+        "ingredients": [
+            "1 litre organic chicken or vegetable stock",
+            "2 fresh bay leaves",
+            "200 g tortellini",
+            "50 g frozen peas",
+            "1 large handful of spinach"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "393",
+                "3.3g",
+                "0.3g",
+                "17.7g",
+                "77.3g",
+                "4.3g",
+                "0.1g",
+                "4.7g"
+            ],
+            [
+                "20%",
+                "5%",
+                "2%",
+                "35%",
+                "30%",
+                "5%",
+                "2%",
+                null
+            ]
+        ]
+    },
+    "goulash-soup": {
+        "ingredients": [
+            "250 g onions",
+            "2 cloves of garlic",
+            "1 green pepper",
+            "2 tomatoes",
+            "a few sprigs of fresh marjoram",
+            "extra virgin olive oil",
+            "500 g beef shin , cut into small cubes",
+            "1 tablespoon paprika",
+            "1\u00bd litres organic beef stock",
+            "\u00bd tablespoon caraway seeds",
+            "red wine vinegar",
+            "1 tablespoon tomato pur\u00e9e",
+            "200 g potatoes",
+            "sour cream , optional"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "225",
+                "9.2g",
+                "2.9g",
+                "21g",
+                "12.7g",
+                "4.7g"
+            ],
+            [
+                "11%",
+                "13%",
+                "15%",
+                "42%",
+                "5%",
+                "5%"
+            ]
+        ]
+    },
+    "asian-vegetable-broth": {
+        "ingredients": [
+            "3 cloves of garlic",
+            "5cm piece of ginger",
+            "200 g mixed Asian greens , such as baby pak choi, choy sum, Chinese cabbage",
+            "2 spring onions",
+            "1 fresh red chilli",
+            "5 sprigs of fresh Thai basil",
+            "1 stick of lemongrass",
+            "2 star anise",
+            "800 ml clear organic vegetable stock",
+            "1 teaspoon fish sauce , (optional)",
+            "1 teaspooon soy sauce",
+            "1 small punnet shiso cress",
+            "1 lime"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "54",
+                "1.4g",
+                "0.1g",
+                "5.6g",
+                "5.2g",
+                "3.6g",
+                "0.5g",
+                "1.6g"
+            ],
+            [
+                "3%",
+                "2%",
+                "1%",
+                "11%",
+                "2%",
+                "4%",
+                "8%",
+                null
+            ]
+        ]
+    },
+    "the-real-mushroom-soup": {
+        "ingredients": [
+            "1 small handful dried porcini",
+            "olive oil",
+            "600 g mixed fresh wild mushrooms (chanterelles, girolles, trompettes de mort, shiitake, oyster) , clean and sliced",
+            "2 cloves garlic , peeled and finely sliced",
+            "1 red onion , peeled and finely chopped",
+            "1 handful fresh thyme , leaves picked",
+            "sea salt",
+            "freshly ground black pepper",
+            "1 litre organic chicken or vegetable stock",
+            "1 handful fresh flat-leaf parsley , leaves picked and roughly chopped",
+            "1 tablespoon mascarpone cheese",
+            "1 lemon",
+            "truffle oil , optional"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "107",
+                "8.8g",
+                "2.1g",
+                "3.7g",
+                "4.2g",
+                "2.6g",
+                "2.35g",
+                "1.6g"
+            ],
+            [
+                "5%",
+                "13%",
+                "11%",
+                "7%",
+                "2%",
+                "3%",
+                "39%",
+                null
+            ]
+        ]
+    },
+    "chicken-soup-with-spring-veg-pasta": {
+        "ingredients": [
+            "1 large onion",
+            "1 leek",
+            "2 sticks of celery",
+            "2 carrots",
+            "2 courgettes",
+            "200 g cooked chicken",
+            "olive oil",
+            "100 g orzo",
+            "50 g frozen peas",
+            "1 bunch of fresh flat-leaf parsley",
+            "CHICKEN STOCK",
+            "1 large onion",
+            "1 chicken carcass and bones",
+            "2 carrots",
+            "2 sticks of celery",
+            "5 black peppercorns",
+            "1 bunch of fresh flat-leaf parsley , (optional)"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "168",
+                "4.3g",
+                "0.9g",
+                "14g",
+                "19.5g",
+                "8.4g"
+            ],
+            [
+                "8%",
+                "6%",
+                "5%",
+                "28%",
+                "8%",
+                "9%"
+            ]
+        ]
+    },
+    "baked-potato-soup": {
+        "ingredients": [
+            "3 large baking potatoes or leftover baked potatoes",
+            "40 g butter",
+            "1 onion",
+            "1 Parmesan rind , whatever size you have in the fridge, optional",
+            "1.5 litres organic chicken or vegetable stock",
+            "sour cream",
+            "1 small bunch of fresh chives"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "353",
+                "16.6g",
+                "9.1g",
+                "12.4g",
+                "36.1g",
+                "3.9g"
+            ],
+            [
+                "18%",
+                "24%",
+                "46%",
+                "25%",
+                "14%",
+                "4%"
+            ]
+        ]
+    },
+    "squash-laksa-soup": {
+        "ingredients": [
+            "1 butternut squash",
+            "1 dried red chilli",
+            "sea salt",
+            "freshly ground black pepper",
+            "olive oil",
+            "2-3 fresh red chillies , deseeded",
+            "3 cloves garlic",
+            "1 thumb-sized piece fresh ginger , peeled",
+            "1 large bunch fresh coriander , leaves picked, stalks reserved",
+            "1 tablespoon sesame oil",
+            "2 limes , zested and halved",
+            "2 tablespoons fish sauce",
+            "800 ml unsweetened light coconut milk",
+            "300 ml organic chicken stock",
+            "200 g rice noodles",
+            "1 red chilli , deseeded and sliced, optional",
+            "cress , to serve, optional"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "540",
+                "25.3g",
+                "12.5g",
+                "8.6g",
+                "69.4g",
+                "17.4g",
+                "1.90g",
+                "5.6g"
+            ],
+            [
+                "27%",
+                "36%",
+                "63%",
+                "17%",
+                "27%",
+                "19%",
+                "32%",
+                null
+            ]
+        ]
+    },
+    "spanish-fish-and-chorizo-soup": {
+        "ingredients": [
+            "For the soup",
+            "olive oil",
+            "2 cloves garlic , peeled and sliced",
+            "2 fresh red chillies , deseeded and finely sliced",
+            "1 bunch fresh basil , leaves picked and stalks finely chopped",
+            "1 iberico sausage , around 200g, sliced",
+            "\u00bd bottle white wine",
+            "2 x 400 g tinned plum tomatoes",
+            "1 handful basmati rice",
+            "400 g tinned chickpeas , drained",
+            "sea salt",
+            "freshly ground black pepper",
+            "2 bream fillets , from sustainable sources, ask your fishmonger, skinned and pin-boned",
+            "2 pollock fillets , from sustainable sources, ask your fishmonger, skinned and pin-boned",
+            "12 raw prawns , from sustainable sources, ask your fishmonger, peeled, tails left on",
+            "2 lemons , cut into wedges",
+            "For the pangrattato",
+            "2 handfuls breadcrumbs",
+            "1 bunch fresh flat-leaf parsley , roughly chopped",
+            "1 lemon , zest of"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "706",
+                "32.5g",
+                "7.6g",
+                "48.4g",
+                "41.5g",
+                "11.3g",
+                "2.99g",
+                "7.2g"
+            ],
+            [
+                "35%",
+                "46%",
+                "38%",
+                "97%",
+                "16%",
+                "13%",
+                "50%",
+                null
+            ]
+        ]
+    },
+    "tortellini-in-brodo": {
+        "ingredients": [
+            "300 g beef brisket",
+            "150 g beef shank bones",
+            "300 g free-range chicken thighs and drumsticks, skin on",
+            "\u00bd an onion",
+            "1 stick of celery",
+            "1 carrot",
+            "PASTA DOUGH",
+            "200 g tipo 00 flour , plus extra for dusting",
+            "2 large free-range eggs",
+            "FILLING",
+            "olive oil",
+            "75 g higher-welfare prosciutto di Parma",
+            "50 g higher-welfare mortadella di Bologna",
+            "1 pinch of ground nutmeg",
+            "50 g Parmesan cheese , plus extra to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "531",
+                "23g",
+                "9.1g",
+                "33.3g",
+                "47.8g",
+                "1.1g"
+            ],
+            [
+                "27%",
+                "33%",
+                "46%",
+                "67%",
+                "18%",
+                "1%"
+            ]
+        ]
+    },
+    "michela-s-easy-minestrone": {
+        "ingredients": [
+            "1 onion",
+            "1 beef tomato",
+            "2 sticks of celery",
+            "2 carotts",
+            "1 courgette",
+            "1 small sweet potato",
+            "1/2 butternut squash , (neck-end)",
+            "500 ml organic veg stock",
+            "60 g dried pastina , or broken up spaghetti/linguine"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "193",
+                "2.8g",
+                "0.4g",
+                "6.4g",
+                "37.9g",
+                "13.6g",
+                "0.6g",
+                "5.2g"
+            ],
+            [
+                "10%",
+                "4%",
+                "2%",
+                "13%",
+                "15%",
+                "15%",
+                "10%",
+                null
+            ]
+        ]
+    },
+    "sweetcorn-and-mussel-chowder": {
+        "ingredients": [
+            "olive oil",
+            "2 rashers higher-welfare bacon , chopped",
+            "1 small white onion , finely chopped",
+            "2 sticks celery , finely chopped",
+            "1 fresh red chilli , deseeded and finely chopped",
+            "4 ears sweetcorn",
+            "2 medium potatoes , peeled and chopped",
+            "900 ml organic vegetable or fish stock , hot",
+            "1 handful fresh, live mussels , from sustainable sources, ask your fishmonger, cleaned and drained",
+            "4 tablespoons single cream",
+            "1 small handful chopped fresh parsley"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "267",
+                "9.9g",
+                "3.1g",
+                "10.5g",
+                "31.4g",
+                "5.2g"
+            ],
+            [
+                "13%",
+                "14%",
+                "16%",
+                "21%",
+                "12%",
+                "6%"
+            ]
+        ]
+    },
+    "minestrone-soup": {
+        "ingredients": [
+            "1 clove of garlic",
+            "1 red onion",
+            "2 carrots",
+            "2 sticks of celery",
+            "1 courgette",
+            "1 small leek",
+            "1 large potato",
+            "1 x 400 g tin of cannellini beans",
+            "2 rashers of higher-welfare smoked streaky bacon",
+            "olive oil",
+            "\u00bd teaspoon dried oregano",
+            "1 fresh bay leaf",
+            "2 x 400 g tins of plum tomatoes",
+            "1 litre organic vegetable stock",
+            "1 large seasonal greens, such as savoy cabbage, curly kale, chard",
+            "100 g wholemeal pasta",
+            "\u00bd a bunch of fresh basil , optional",
+            "Parmesan cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "175",
+                "2.3g",
+                "0.5g",
+                "9.5g",
+                "28.9g",
+                "8.9g",
+                "0.24g",
+                "7.9g"
+            ],
+            [
+                "9%",
+                "3%",
+                "3%",
+                "19%",
+                "11%",
+                "10%",
+                "4%",
+                null
+            ]
+        ]
+    },
+    "store-cupboard-lentil-soup": {
+        "ingredients": [
+            "FRESH",
+            "2 red onions",
+            "2 carrots",
+            "3 sticks celery",
+            "2 cloves garlic",
+            "6 rashers of higher-welfare smoked streaky bacon",
+            "a few sprigs fresh flat-leaf parsley",
+            "STORE CUPBOARD",
+            "olive oil",
+            "\u00bd a dried chilli",
+            "\u00bd teaspoon dried thyme",
+            "200 g dried lentils , (a mixture of green and red is nice)",
+            "1 organic vegetable stock cube , optional",
+            "1 x 410 g tin of cannellini beans",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "236",
+                "12.4g",
+                "2.7g",
+                "10.5g",
+                "18.2g",
+                "4.3g"
+            ],
+            [
+                "12%",
+                "18%",
+                "14%",
+                "21%",
+                "7%",
+                "5%"
+            ]
+        ]
+    },
+    "red-lentil-sweet-potato-coconut-soup": {
+        "ingredients": [
+            "750 g sweet potatoes",
+            "2 red onions",
+            "\u00bd tablespoon cumin seeds",
+            "1 teaspoon ground coriander",
+            "olive oil",
+            "4 cloves of garlic",
+            "1 fresh red chilli",
+            "\u00bd a bunch of fresh coriander",
+            "125 g red lentils",
+            "1 litre organic vegetable stock",
+            "1 x 400 ml tin of light coconut milk",
+            "1 lemon"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "296",
+                "10.1g",
+                "4.4g",
+                "9.3g",
+                "45g",
+                "12.5g"
+            ],
+            [
+                "15%",
+                "14%",
+                "22%",
+                "19%",
+                "17%",
+                "14%"
+            ]
+        ]
+    },
+    "parsnip-sage-white-bean-soup": {
+        "ingredients": [
+            "SOUP",
+            "1 onion",
+            "2 large parsnips",
+            "1 x 420 g tin of cannellini beans",
+            "1 sprig of fresh sage",
+            "olive oil",
+            "1 fresh bay leaf",
+            "1 organic litre chicken stock",
+            "CRISPY PARSNIPS",
+            "1 parsnip",
+            "2 sprigs of fresh sage"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "374",
+                "19.8g",
+                "3.2g",
+                "16.2g",
+                "30.9g",
+                "9.4g",
+                "0.8g",
+                "12.9g"
+            ],
+            [
+                "19%",
+                "28%",
+                "16%",
+                "32%",
+                "12%",
+                "10%",
+                "13%",
+                null
+            ]
+        ]
+    },
+    "spicy-squash-soup": {
+        "ingredients": [
+            "1\u00bc litres organic chicken or vegetable stock",
+            "6-7 lime leaves",
+            "3 fresh red chillies , deseeded",
+            "2 cloves garlic , peeled",
+            "1 large thumb-sized piece fresh ginger , peeled",
+            "3 sticks lemongrass , trimmed and squashed with the back of a knife",
+            "sea salt",
+            "freshly ground black pepper",
+            "1 small bunch fresh coriander",
+            "olive oil",
+            "1 heaped teaspoon five-spice",
+            "1 teaspoon ground cumin",
+            "1 onion , peeled and finely sliced",
+            "1 large butternut or acorn squash , halved, deseeded and cut into 1 inch chunks",
+            "200 g basmati rice , washed",
+            "2 x 400 ml tinned light coconut milk",
+            "3-4 limes , juice of",
+            "1 fresh red chilli , finely sliced, optional"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "609",
+                "29.6g",
+                "14.7g",
+                "17.5g",
+                "64.4g",
+                "15.9g"
+            ],
+            [
+                "30%",
+                "42%",
+                "74%",
+                "35%",
+                "25%",
+                "18%"
+            ]
+        ]
+    },
+    "corn-chowder": {
+        "ingredients": [
+            "1 stalk celery",
+            "1 medium onion",
+            "olive oil",
+            "\u00bd teaspoon dried thyme",
+            "1 tablespoon plain flour",
+            "840 ml semi-skimmed milk",
+            "1 medium potato , peeled and cut into little cubes",
+            "3 spring onions",
+            "175 g frozen corn",
+            "\u00bc cup fresh chives , chopped, or parsley"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "211",
+                "5.7g",
+                "2.5g",
+                "10.7g",
+                "31.6g",
+                "13.9g",
+                "0.3g",
+                "2.3g"
+            ],
+            [
+                "11%",
+                "8%",
+                "13%",
+                "21%",
+                "12%",
+                "15%",
+                "5%",
+                null
+            ]
+        ]
+    },
+    "watercress-soup": {
+        "ingredients": [
+            "2 potatoes",
+            "2 onions",
+            "2 cloves of garlic",
+            "olive oil",
+            "400 ml organic stock",
+            "3 bunches of watercress"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "235",
+                "4.2g",
+                "0.7g",
+                "10.3g",
+                "41.4g",
+                "11.6g",
+                "0.2g",
+                "6.3g"
+            ],
+            [
+                "12%",
+                "6%",
+                "4%",
+                "21%",
+                "16%",
+                "13%",
+                "3%",
+                null
+            ]
+        ]
+    },
+    "pistou-soup": {
+        "ingredients": [
+            "4 tablespoons olive oil",
+            "1 onion",
+            "3 cloves of garlic",
+            "3 leeks",
+            "3 potatoes",
+            "3 carrots",
+            "1 stick of celery",
+            "3 courgettes",
+            "2 sprigs of fresh flat-leaf parsley",
+            "2 fresh bay leaves",
+            "250 g baby green beans",
+            "1 x 400 g tin of chopped tomatoes",
+            "1 x 400 g tin of cannellini beans",
+            "1 x 400 g tin of borlotti beans",
+            "70 g small macaroni",
+            "PISTOU SAUCE",
+            "5 cloves of garlic",
+            "6 sprigs of fresh basil",
+            "60 g Parmesan cheese",
+            "3 tablespoons extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "638",
+                "28g",
+                "6.4g",
+                "27.2g",
+                "70.1g",
+                "18.6g",
+                "1g",
+                "18.9g"
+            ],
+            [
+                "32%",
+                "40%",
+                "32%",
+                "54%",
+                "27%",
+                "21%",
+                "17%",
+                null
+            ]
+        ]
+    },
+    "chunky-squash-and-chickpea-soup": {
+        "ingredients": [
+            "1 butternut squash , peeled and diced, reserving the seeds",
+            "1 tablespoon cumin seeds",
+            "1 dried red chilli , crumbled",
+            "olive oil",
+            "2 sticks celery , trimmed and finely chopped",
+            "3 cloves garlic , peeled and finely chopped",
+            "a few sprigs of fresh flat-leaf parsley , leaves picked and chopped, stalks finely chopped",
+            "2 small red onions , peeled and finely chopped",
+            "1.5 litres organic chicken or vegetable stock",
+            "2 x 400 g tinned chickpeas , drained",
+            "50 g almond flakes",
+            "\u00bd tablespoon fennel seeds",
+            "\u00bd tablespoon sesame seeds",
+            "\u00bd tablespoon poppy seeds",
+            "sea salt",
+            "freshly ground black pepper",
+            "2 lemons , zest of",
+            "a few sprigs of fresh mint , leaves picked and chopped",
+            "harissa paste",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "494",
+                "22.6g",
+                "3.2g",
+                "17.8g",
+                "50.1g",
+                "13.6g"
+            ],
+            [
+                "25%",
+                "32%",
+                "16%",
+                "36%",
+                "19%",
+                "15%"
+            ]
+        ]
+    },
+    "english-onion-soup-with-sage-and-cheddar": {
+        "ingredients": [
+            "1 good knob butter",
+            "olive oil",
+            "1 good handful fresh sage leaves , 8 leaves reserved for serving",
+            "6 cloves garlic , peeled and crushed",
+            "5 red onions , peeled and sliced",
+            "3 large white onions , peeled and sliced",
+            "3 banana shallots , peeled and sliced",
+            "300 g leeks , trimmed, washed and sliced",
+            "sea salt",
+            "freshly ground black pepper",
+            "2 litres organic beef, vegetable or chicken stock , hot",
+            "8 slices good-quality stale bread , 2cm thick",
+            "200 g Cheddar cheese , freshly grated",
+            "Worcestershire sauce"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "342",
+                "17.1g",
+                "8.1g",
+                "8.8g",
+                "28.6g",
+                "13.3g"
+            ],
+            [
+                "17%",
+                "24%",
+                "41%",
+                "18%",
+                "11%",
+                "15%"
+            ]
+        ]
+    },
+    "my-favourite-ribollita-la-mia-ribollita-preferita": {
+        "ingredients": [
+            "310 g zolfini or cannellini beans , fresh, or dried and soaked overnight",
+            "1 bay leaf",
+            "1 tomato , squashed",
+            "1 small potato , peeled",
+            "2 small red onions , peeled",
+            "2 carrots , peeled",
+            "3 sticks celery , trimmed",
+            "3 cloves garlic , peeled",
+            "olive oil",
+            "1 pinch ground fennel seeds",
+            "1 pinch dried red chilli",
+            "400 g good-quality tinned plum tomatoes",
+            "310 g cavolo nero , leaves and stalks finely sliced",
+            "2 large handfuls good-quality stale bread , torn into chunks",
+            "sea salt",
+            "freshly ground black pepper",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "339",
+                "9.8g",
+                "1.2g",
+                "15.8g",
+                "40.1g",
+                "8.6g"
+            ],
+            [
+                "17%",
+                "14%",
+                "6%",
+                "32%",
+                "15%",
+                "10%"
+            ]
+        ]
+    },
+    "roast-carrot-fennel-soup": {
+        "ingredients": [
+            "1 kg carrots , peeled, trimmed and sliced",
+            "2 bulbs of fennel , trimmed and sliced, tops reserved to serve",
+            "1 onion , sliced",
+            "Olive oil",
+            "2 cloves of garlic , unpeeled",
+            "1.6 litres vegetable stock",
+            "100 ml single cream , to serve",
+            "For the flatbreads",
+            "1 tsp fennel seeds",
+            "250 g strong bread flour",
+            "1/2 tsp fast-action dried yeast",
+            "1 tsp sugar",
+            "1 tbsp olive oil , plus extra for shaping"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "477",
+                "17.8g",
+                "4.8g",
+                "14.1g",
+                "69.3g",
+                "20.6g"
+            ],
+            [
+                "24%",
+                "25%",
+                "24%",
+                "28%",
+                "27%",
+                "23%"
+            ]
+        ]
+    },
+    "corn-chowder-with-a-homemade-chilli-cracker": {
+        "ingredients": [
+            "1 tablespoon butter",
+            "12 slices higher-welfare pancetta , chopped, plus extra for garnish",
+            "1 onion , peeled or chopped",
+            "2 sticks celery , trimmed or chopped",
+            "2 litres organic chicken or vegetable stock",
+            "4 corn on the cob",
+            "2 medium potatoes , peeled and chopped",
+            "sea salt",
+            "freshly ground black pepper",
+            "75 ml double cream",
+            "fresh parsley , to serve",
+            "1 homemade chilli crackers recipe"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "396",
+                "18.9g",
+                "8.3g",
+                "20.9g",
+                "33.6g",
+                "8.7g"
+            ],
+            [
+                "20%",
+                "27%",
+                "42%",
+                "42%",
+                "13%",
+                "10%"
+            ]
+        ]
+    },
+    "potato-celeriac-and-truffle-oil-soup": {
+        "ingredients": [
+            "1 white onion , peeled and roughly chopped",
+            "4 tablespoons extra virgin olive oil",
+            "1 bunch fresh thyme",
+            "500 g celeriac , peeled and roughly diced",
+            "500 g floury potatoes , peeled and roughly diced",
+            "1.1 litres organic chicken stock",
+            "100 ml single cream",
+            "sea salt",
+            "freshly ground black pepper",
+            "3-4 tablespoons truffle oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "350",
+                "24.4g",
+                "5.2g",
+                "8.3g",
+                "23.3g",
+                "6.1g"
+            ],
+            [
+                "18%",
+                "35%",
+                "26%",
+                "17%",
+                "9%",
+                "7%"
+            ]
+        ]
+    },
+    "christmas-mulligatawny-soup": {
+        "ingredients": [
+            "1 large onion",
+            "2 cloves of garlic",
+            "1 carrot",
+            "300 g butternut squash",
+            "1 thumb-sized piece of ginger",
+            "1 tablespoon olive oil",
+            "1 dried red chilli",
+            "1 tablespoon tomato pur\u00e9e",
+            "1 tablespoon curry paste",
+            "500 g leftover cooked free-range turkey",
+            "1 x 400 g tin chopped tomatoes",
+            "750 ml hot organic chicken or giblet stock",
+            "300 g basmati rice",
+            "a few sprigs of fresh coriander"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "400",
+                "7.4g",
+                "1.5g",
+                "32.2g",
+                "51.3g",
+                "7.6g",
+                "1.3g",
+                "2.3g"
+            ],
+            [
+                "20%",
+                "11%",
+                "8%",
+                "64%",
+                "20%",
+                "8%",
+                "22%",
+                null
+            ]
+        ]
+    },
+    "jools-wholesome-veg-and-bean-soup": {
+        "ingredients": [
+            "2 sticks of celery",
+            "3 carrots",
+            "2 large leeks",
+            "2 cloves of garlic",
+            "1 sprig of fresh rosemary",
+            "2 rashers of higher-welfare smoked streaky bacon",
+            "olive oil",
+            "1 x 400 g tin of borlotti or cannellini beans",
+            "1 litre organic vegetable or chicken stock",
+            "75 g baby spinach or kale",
+            "100 g frozen peas",
+            "sea salt",
+            "freshly ground black pepper"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "179",
+                "6.2g",
+                "1.2g",
+                "10.8g",
+                "18.1g",
+                "6.6g",
+                "0.4g",
+                "8.9g"
+            ],
+            [
+                "9%",
+                "9%",
+                "6%",
+                "22%",
+                "7%",
+                "7%",
+                "7%",
+                null
+            ]
+        ]
+    },
+    "apple-celeriac-soup": {
+        "ingredients": [
+            "4 tbsp olive oil",
+            "2 onions",
+            "1 celery stalk",
+            "1 celeriac",
+            "4 Cox's Orange Pippin apples",
+            "a few sprigs of thyme",
+            "2 litres vegetable or chicken stock",
+            "200 ml cr\u00e8me fra\u00eeche",
+            "a few sage leaves",
+            "toasted hazelnuts or grated fresh horseradish , to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt"
+            ],
+            [
+                "237",
+                "16.5g",
+                "6.1g",
+                "6.5g",
+                "14.6g",
+                "9.9g",
+                "0.4g"
+            ],
+            [
+                "12%",
+                "24%",
+                "31%",
+                "13%",
+                "6%",
+                "11%",
+                "7%"
+            ]
+        ]
+    },
+    "classic-minestrone": {
+        "ingredients": [
+            "4 rashers of higher-welfare smoked streaky bacon",
+            "2 red onions",
+            "2 cloves of garlic",
+            "2 carrots",
+            "2 sticks of celery",
+            "1 bulb of fennel",
+            "\u00bd a bunch of fresh basil",
+            "olive oil",
+            "125 ml red wine",
+            "2 courgettes",
+            "300 g savoy cabbage or chard",
+            "2 x 400 g tins of quality plum tomatoes",
+            "1 x 400 g tin of cannellini beans",
+            "800 ml organic chicken or vegetable stock",
+            "75 g dried pasta (shells or odd ends)",
+            "extra virgin olive oil",
+            "Parmesan cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "228",
+                "8.4g",
+                "1.6g",
+                "12.1g",
+                "22.6g",
+                "10.5g",
+                "0.49g",
+                "7.9g"
+            ],
+            [
+                "11%",
+                "12%",
+                "8%",
+                "24%",
+                "9%",
+                "12%",
+                "8%",
+                null
+            ]
+        ]
+    },
+    "scotch-broth-with-winter-root-veg": {
+        "ingredients": [
+            "\u00bd quality shoulder of lamb , about 1kg, or 600g leftover roast lamb",
+            "sea salt",
+            "freshly ground white pepper",
+            "1 leek , trimmed, washed and roughly chopped",
+            "2 sticks celery , roughly chopped, leaves reserved",
+            "2 onions , peeled and finely sliced",
+            "2 carrots , peeled and roughly chopped",
+            "olive oil",
+            "3 litres organic lamb stock",
+            "1 small swede , peeled and roughly chopped",
+            "1 large potato , peeled and roughly chopped",
+            "80 g pearl barley",
+            "1 small bunch fresh parsley , leaves picked",
+            "1 loaf fresh crusty bread , to serve",
+            "1 splash Scotch whisky , optional"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "474",
+                "20.5g",
+                "9g",
+                "27.2g",
+                "47.8g",
+                "9.4g",
+                "4.56g",
+                "5.1g"
+            ],
+            [
+                "24%",
+                "29%",
+                "45%",
+                "54%",
+                "18%",
+                "10%",
+                "76%",
+                null
+            ]
+        ]
+    },
+    "super-noodle-ramen-with-kale-barbecue-mushrooms": {
+        "ingredients": [
+            "1 bulb garlic",
+            "1 large brown onion",
+            "olive oil",
+            "1 large bunch of kale , (200g),mixed colours if you can get them",
+            "2 tablespoons dark miso paste",
+            "2 tablespoons white miso paste",
+            "1 heaped teaspoon tahini",
+            "1 tablespoon low-salt soy sauce",
+            "2 tablespoons mirin , or to taste",
+            "1 tablespoon sugar",
+            "1 tablespoon white wine vinegar",
+            "1 fresh red chilli",
+            "400 g mixed mushrooms",
+            "4 tablespoons teriyaki sauce",
+            "250 g brown-rice ramen noodles",
+            "4 tablespoons sesame seeds"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "440",
+                "7.7g",
+                "0.9g",
+                "16.6g",
+                "75.2g",
+                "18.4g"
+            ],
+            [
+                "22%",
+                "11%",
+                "5%",
+                "33%",
+                "29%",
+                "20%"
+            ]
+        ]
+    },
+    "leek-and-potato-soup": {
+        "ingredients": [
+            "2 carrots",
+            "2 sticks of celery",
+            "2 medium onions",
+            "2 cloves of garlic",
+            "400 g leeks",
+            "400 g potatoes",
+            "olive oil",
+            "2 organic chicken or vegetable stock cubes"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "108",
+                "3.5g",
+                "0.5g",
+                "2.9g",
+                "14.6g",
+                "5.4g"
+            ],
+            [
+                "5%",
+                "5%",
+                "3%",
+                "6%",
+                "6%",
+                "6%"
+            ]
+        ]
+    },
+    "spiced-parsnip-amp-lentil-soup-with-chilli-oil": {
+        "ingredients": [
+            "1 small smoked higher-welfare ham hock",
+            "1 onion",
+            "3cm piece of ginger",
+            "400 g parsnips",
+            "olive oil",
+            "2 tablespoons rogan josh paste",
+            "250 g red lentils",
+            "1.6 litres organic vegetable stock",
+            "a few sprigs of fresh mint",
+            "fat-free Greek yoghurt",
+            "3 tablespoons groundnut oil",
+            "2 red chillies , finely sliced",
+            "1 garlic clove , finely sliced"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "613",
+                "27.8g",
+                "6.2g",
+                "41.1g",
+                "52.5g",
+                "10.3g"
+            ],
+            [
+                "31%",
+                "40%",
+                "31%",
+                "82%",
+                "20%",
+                "11%"
+            ]
+        ]
+    },
+    "superb-squash-soup-with-the-best-parmesan-croutons": {
+        "ingredients": [
+            "2 red onions",
+            "2 carrots",
+            "4 cloves garlic",
+            "2 sticks of celery",
+            "\u00bd - 1 fresh red chilli",
+            "2 sprigs fresh rosemary",
+            "olive oil",
+            "16 fresh sage leaves",
+            "2 kg butternut squash, onion squash or musque de Provence",
+            "2 litres organic chicken or vegetable stock",
+            "extra virgin olive oil",
+            "CROUTONS",
+            "extra virgin olive oil",
+            "16 slices of ciabatta bread",
+            "Parmesan cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "266",
+                "7.8g",
+                "2g",
+                "9.3g",
+                "43.5g",
+                "17.6g",
+                "3.13g",
+                "7.6g"
+            ],
+            [
+                "13%",
+                "11%",
+                "10%",
+                "19%",
+                "17%",
+                "20%",
+                "52%",
+                null
+            ]
+        ]
+    },
+    "super-tasty-miso-broth": {
+        "ingredients": [
+            "150 g mixed brown and wild or brown rice",
+            "20 g dried porcini mushrooms",
+            "1 red onion",
+            "groundnut oil",
+            "1 x 5cm piece of ginger",
+            "1 heaped teaspoon miso paste",
+            "800 ml really good chicken stock",
+            "6 radishes",
+            "rice or white wine vinegar",
+            "1 x 200 g skinless free-range chicken breast",
+            "1 handful of colourful curly kale",
+            "1 sheet of nori",
+            "150 g mixed exotic mushrooms, such as enoki, chestnut, shiitake"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "521",
+                "8.1g",
+                "1.9g",
+                "45.1g",
+                "70.4g",
+                "5.3g",
+                "1.1g",
+                "5.3g"
+            ],
+            [
+                "26%",
+                "12%",
+                "10%",
+                "90%",
+                "27%",
+                "6%",
+                "18%",
+                null
+            ]
+        ]
+    },
+    "costa-rican-black-bean-soup": {
+        "ingredients": [
+            "3 red onions",
+            "2 cloves of garlic",
+            "2 sticks of celery",
+            "1 green pepper",
+            "1 red pepper",
+            "2 fresh red chillies",
+            "\u00bd a bunch of fresh coriander",
+            "olive oil",
+            "\u00bd a bunch of fresh thyme",
+            "2 x 400 g tins of black beans",
+            "2 fresh bay leaves",
+            "4 large free-range eggs",
+            "1 tablespoon red wine vinegar",
+            "extra virgin olive oil",
+            "4 corn tortillas"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "594",
+                "25g",
+                "4.5g",
+                "27g",
+                "56.8g",
+                "11.9g",
+                "1g",
+                "25.2g"
+            ],
+            [
+                "30%",
+                "36%",
+                "23%",
+                "54%",
+                "22%",
+                "13%",
+                "17%",
+                null
+            ]
+        ]
+    },
+    "caldo-verde": {
+        "ingredients": [
+            "1 large onion",
+            "2 cloves of garlic",
+            "700 g potatoes",
+            "300 g kale or cavolo nero",
+            "extra virgin olive oil",
+            "paprika"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "493",
+                "38.2g",
+                "7.6g",
+                "10.6g",
+                "25g",
+                "2.1g"
+            ],
+            [
+                "25%",
+                "55%",
+                "38%",
+                "21%",
+                "10%",
+                "2%"
+            ]
+        ]
+    },
+    "scrumptious-spanish-chickpea-and-chorizo-soup": {
+        "ingredients": [
+            "olive oil",
+            "150 g iberico chorizo sausage , finely chopped",
+            "1 onion , peeled and finely chopped",
+            "1 clove garlic , peeled and finely chopped",
+            "2 sticks celery , finely chopped",
+            "500 g fresh spinach , washed and chopped",
+            "8 fresh tomatoes , deseeded and roughly chopped",
+            "410 g good-quality tinned cooked chickpeas , drained",
+            "1.3 litres organic chicken stock",
+            "sea salt",
+            "freshly ground black pepper",
+            "55 g quality pata negra, Spanish ham or prosciutto , finely chopped",
+            "extra virgin olive oil",
+            "2 free-range eggs , hard-boiled"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "509",
+                "31.5g",
+                "8.5g",
+                "28g",
+                "30.4g",
+                "13.4g",
+                "5.24g",
+                "11.8g"
+            ],
+            [
+                "25%",
+                "45%",
+                "43%",
+                "56%",
+                "12%",
+                "15%",
+                "87%",
+                null
+            ]
+        ]
+    },
+    "ham-ribollita": {
+        "ingredients": [
+            "1 onion",
+            "2 cloves of garlic",
+            "2 sticks of celery",
+            "1 carrot",
+            "olive oil",
+            "2 teaspoons fennel seeds",
+            "1 x 400 g tin of plum tomatoes",
+            "1 x 400 g tin of cannellini beans",
+            "750 ml organic stock or the ham cooking liquor",
+            "300 g cavolo nero",
+            "100 g spinach",
+            "150 g leftover cooked higher-welfare ham"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "148",
+                "3.3g",
+                "0.6g",
+                "12.9g",
+                "15.1g",
+                "5.6g"
+            ],
+            [
+                "7%",
+                "5%",
+                "3%",
+                "26%",
+                "6%",
+                "6%"
+            ]
+        ]
+    },
+    "fish-soup": {
+        "ingredients": [
+            "1 small bulb of fennel",
+            "1 leek",
+            "3 sticks of celery",
+            "1 fresh red chilli",
+            "4 cloves of garlic",
+            "3-4 tomatoes",
+            "1 bunch of fresh thyme",
+            "440 g white fish, from sustainable sources",
+            "olive oil",
+            "1 small glass of white wine",
+            "400 g prawns, mussels or clams, from sustainable sources",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "240",
+                "3.2g",
+                "0.6g",
+                "40.6g",
+                "7.4g",
+                "5.2g",
+                "1.3g",
+                "0.7g"
+            ],
+            [
+                "12%",
+                "5%",
+                "3%",
+                "81%",
+                "3%",
+                "6%",
+                "22%",
+                null
+            ]
+        ]
+    },
+    "spicy-parsnip-soup": {
+        "ingredients": [
+            "olive oil",
+            "1 knob butter",
+            "1 large onion , peeled and roughly chopped",
+            "2 cloves garlic , peeled and roughly chopped",
+            "1 thumb-sized piece fresh ginger , peeled and roughly chopped",
+            "1 tablespoon garam masala",
+            "6 parsnips , peeled and chopped into chunks",
+            "500 ml semi-skimmed milk",
+            "1 litre organic vegetable stock",
+            "sea salt",
+            "freshly ground black pepper",
+            "1 fresh red chilli , deseeded and finely sliced",
+            "1 handful fresh coriander leaves , optional",
+            "crusty bread , to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "293",
+                "11.3g",
+                "5.2g",
+                "10.8g",
+                "40.6g",
+                "23.2g",
+                "2.91g",
+                "12.4g"
+            ],
+            [
+                "15%",
+                "16%",
+                "26%",
+                "22%",
+                "16%",
+                "26%",
+                "49%",
+                null
+            ]
+        ]
+    },
+    "traditional-welsh-cawl": {
+        "ingredients": [
+            "1 onion",
+            "1 kg lamb neck fillet , bone in, cut into 5cm chunks (ask your butcher to do this for you)",
+            "1 kg swede",
+            "2 carrots",
+            "2 Maris Piper potatoes",
+            "2 parsnips",
+            "3 large leaks"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "374",
+                "18.6g",
+                "8.1g",
+                "28g",
+                "25g",
+                "12.1g",
+                "1.3g",
+                "6.6g"
+            ],
+            [
+                "19%",
+                "27%",
+                "41%",
+                "56%",
+                "10%",
+                "13%",
+                "22%",
+                null
+            ]
+        ]
+    },
+    "steaming-ramen": {
+        "ingredients": [
+            "8 higher-welfare chicken wings",
+            "1 handful of pork bones , (ask your butcher)",
+            "750 g higher-welfare pork belly , (skin removed and reserved)",
+            "2 thumb-sized pieces of ginger",
+            "5 cloves of garlic",
+            "sesame oil",
+            "1 heaped tablespoon miso paste",
+            "400 g baby spinach",
+            "500 g dried soba or ramen noodles",
+            "8 small handfuls of beansprouts , (ready to eat)",
+            "8 spring onions",
+            "1\u20132 fresh red chilles",
+            "2 sheets of wakame seaweed",
+            "8 tablespoons kimchee",
+            "chilli oil",
+            "For the soy sauce eggs:",
+            "4 large free-range eggs",
+            "200 ml low-salt soy sauce",
+            "1 splash of mirin",
+            "4 star anise",
+            "1 thumb-sized piece of ginger",
+            "2 cloves of garlic"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "914",
+                "52.4g",
+                "17.8g",
+                "57.1g",
+                "50.8g",
+                "2.5g"
+            ],
+            [
+                "46%",
+                "75%",
+                "89%",
+                "114%",
+                "20%",
+                "3%"
+            ]
+        ]
+    },
+    "celeriac-quince-soup": {
+        "ingredients": [
+            "1 large celeriac",
+            "1 quince",
+            "2 banana shallots",
+            "2 cloves of garlic",
+            "olive oil",
+            "1 organic chicken stock cube",
+            "1 teaspoon ground cumin",
+            "1 pinch of ground cinnamon",
+            "1 teaspoon sugar",
+            "TO SERVE",
+            "1 small handful of walnuts",
+            "1 tablespoon cr\u00e8me fra\u00eeche",
+            "a few sprigs of fresh dill"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "140",
+                "11g",
+                "2.5g",
+                "3g",
+                "5g",
+                "6g",
+                "0.8g",
+                "3g"
+            ],
+            [
+                "7%",
+                "16%",
+                "13%",
+                "6%",
+                "2%",
+                "7%",
+                "13%",
+                null
+            ]
+        ]
+    },
+    "pumpkin-ginger-soup": {
+        "ingredients": [
+            "1 kg pumpkin",
+            "2 shallots",
+            "75 g ginger",
+            "a few sprigs of fresh herbs , such as chives, mint",
+            "extra virgin olive oil",
+            "1 litre organic vegetable stock",
+            "125 ml coconut milk , plus extra to serve",
+            "\u00bd tablespoon chilli powder",
+            "1 lime"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "90",
+                "4.4g",
+                "2.1g",
+                "4.6g",
+                "8.7g",
+                "6g",
+                "0.6g",
+                "2.9g"
+            ],
+            [
+                "5%",
+                "6%",
+                "11%",
+                "9%",
+                "3%",
+                "7%",
+                "10%",
+                null
+            ]
+        ]
+    },
+    "creamy-mushroom-soup": {
+        "ingredients": [
+            "600 g mixed mushrooms",
+            "1 onion",
+            "2 sticks of celery",
+            "3 cloves of garlic",
+            "a few sprigs of fresh flat-leaf parsley",
+            "a few sprigs of fresh thyme",
+            "olive oil",
+            "1.5 litres organic chicken or vegetable stock",
+            "75 ml single cream",
+            "6 slices of ciabatta",
+            "extra virgin olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "148",
+                "7.5g",
+                "2.3g",
+                "7.9g",
+                "12.4g",
+                "3.6g",
+                "1.1g",
+                "3.2g"
+            ],
+            [
+                "7%",
+                "11%",
+                "12%",
+                "16%",
+                "5%",
+                "4%",
+                "18%",
+                null
+            ]
+        ]
+    }
+}

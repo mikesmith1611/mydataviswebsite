@@ -1,0 +1,707 @@
+{
+    "radicchio-and-rocket-salad-insalata-di-radicchio-e-rughetta": {
+        "ingredients": [
+            "1 handful rocket",
+            "1 small handful Parmesan cheese , grated",
+            "\u00bc radicchio , finely sliced",
+            "1 lug balsamic vinegar",
+            "3 lugs extra virgin olive oil",
+            "a little sea salt",
+            "freshly ground black pepper",
+            "a little Parmesan"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "419",
+                "38.0g",
+                "10.7g",
+                "13.8g",
+                "4.8g",
+                "3.2g"
+            ],
+            [
+                "21%",
+                "54%",
+                "54%",
+                "28%",
+                "2%",
+                "4%"
+            ]
+        ]
+    },
+    "fantastic-fish-finger-buttie": {
+        "ingredients": [
+            "4 fish fingers",
+            "butter",
+            "2 slices white bread , or 1 roll",
+            "tomato ketchup"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "486",
+                "22.4g",
+                "10.9g",
+                "44.0g",
+                "50.1g",
+                "5.9g"
+            ],
+            [
+                "24%",
+                "32%",
+                "55%",
+                "88%",
+                "19%",
+                "7%"
+            ]
+        ]
+    },
+    "roasted-chicken-breast-with-creamy-butternut-squash-and-chilli": {
+        "ingredients": [
+            "1 higher-welfare chicken breast",
+            "\u00bd fresh red chilli",
+            "2 sprigs fresh marjoram or oregano",
+            "1 pinch sea salt",
+            "1 pinch freshly ground black pepper",
+            "1 medium butternut squash",
+            "a little single cream",
+            "grated nutmeg",
+            "salt",
+            "pepper",
+            "olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "370",
+                "11.1g",
+                "2.9g",
+                "51.7g",
+                "18.6g",
+                "10g",
+                "3.26g",
+                "3.4g"
+            ],
+            [
+                "19%",
+                "16%",
+                "15%",
+                "103%",
+                "7%",
+                "11%",
+                "54%",
+                null
+            ]
+        ]
+    },
+    "omelette": {
+        "ingredients": [
+            "BASIC OMELETTE",
+            "2 large free-range eggs",
+            "1 small knob of unsalted butter",
+            "1 small handful of grated Cheddar cheese , (optional)",
+            "OPTIONAL: TOMATO & BASIL OMELETTE",
+            "2 or 3 sprigs of fresh basil",
+            "1 handful of cherry tomatoes",
+            "olive oil",
+            "OPTIONAL: MUSHROOM OMELETTE",
+            "2 or 3 field-type mushrooms",
+            "olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "344",
+                "30.2g",
+                "15.1g",
+                "17.5g",
+                "0.3g",
+                "0.1g"
+            ],
+            [
+                "17%",
+                "43%",
+                "76%",
+                "35%",
+                "0%",
+                "0%"
+            ]
+        ]
+    },
+    "leftovers-affogato": {
+        "ingredients": [
+            "75 g leftover dessert , Christmas pudding, chocolate mousse, tart, torte or pie",
+            "1 scoop good-quality vanilla ice cream",
+            "1 shot good-quality hot espresso",
+            "1-2 amaretti biscuits"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "374",
+                "14.9g",
+                "5.9g",
+                "7.8g",
+                "51.5g",
+                "40.4g"
+            ],
+            [
+                "19%",
+                "21%",
+                "30%",
+                "16%",
+                "20%",
+                "45%"
+            ]
+        ]
+    },
+    "omelette-aux-fines-herbes": {
+        "ingredients": [
+            "2 large free-range eggs , at room temperature",
+            "a few sprigs of mixed herbs, such as chives, tarragon, chervil and parsley",
+            "1 large knob of butter"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "409",
+                "29.7g",
+                "13.7g",
+                "18.1g",
+                "16.7g",
+                "1.3g"
+            ],
+            [
+                "20%",
+                "42%",
+                "69%",
+                "36%",
+                "6%",
+                "1%"
+            ]
+        ]
+    },
+    "roasted-chicken-breast-with-pancetta-leeks-and-thyme": {
+        "ingredients": [
+            "1 higher-welfare chicken breast",
+            "1 large leek",
+            "a few sprigs fresh thyme",
+            "1 good lug olive oil",
+            "1 pinch sea salt",
+            "1 pinch freshly ground black pepper",
+            "1 small swig white wine",
+            "4 slices higher-welfare pancetta",
+            "olive oil",
+            "2 whole sprigs thyme"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "615",
+                "41g",
+                "8.9g",
+                "56.7g",
+                "3.7g",
+                "2.3g",
+                "3.60g",
+                "2.3g"
+            ],
+            [
+                "31%",
+                "59%",
+                "45%",
+                "113%",
+                "1%",
+                "3%",
+                "60%",
+                null
+            ]
+        ]
+    },
+    "reuben-ish-sandwich": {
+        "ingredients": [
+            "2 big slices rye bread , 1cm in size",
+            "low fat mayonnaise",
+            "3 heaped tablespoons sauerkraut",
+            "1 fresh red chilli , deseeded and finely sliced",
+            "3 slices pastrami",
+            "a few gherkins",
+            "60 g Swiss cheese",
+            "1 handful watercress leaves , to serve"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "420",
+                "21.5g",
+                "12g",
+                "27.5g",
+                "30.1g",
+                "3.4g",
+                "3.10g",
+                "3.9g"
+            ],
+            [
+                "21%",
+                "31%",
+                "60%",
+                "55%",
+                "12%",
+                "4%",
+                "52%",
+                null
+            ]
+        ]
+    },
+    "simple-cheese-omelette": {
+        "ingredients": [
+            "2 large free-range eggs",
+            "olive oil",
+            "10 g Cheddar cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "241",
+                "18.1g",
+                "7.4g",
+                "19.6g",
+                "0g",
+                "0.1g",
+                "1.31g",
+                "0.1g"
+            ],
+            [
+                "12%",
+                "26%",
+                "37%",
+                "39%",
+                "0%",
+                "0%",
+                "22%",
+                null
+            ]
+        ]
+    },
+    "gennaro-s-beautiful-leftover-bruschetta": {
+        "ingredients": [
+            "1 slice sourdough bread",
+            "1 piece roast turnip",
+            "2 pieces roast beetroot",
+            "1 piece roast parsnip",
+            "sea salt",
+            "freshly ground black pepper",
+            "extra virgin olive oil",
+            "balsamic vinegar",
+            "1 clove garlic , unpeeled and halved",
+            "2 sprigs fresh flat-leaf parsley",
+            "1 handful mixed salad leaves , washed and spun dry",
+            "1 sprig fresh mint , leaves picked",
+            "1 lemon",
+            "Parmesan cheese"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "383",
+                "20.7g",
+                "3.8g",
+                "9.5g",
+                "40.2g",
+                "16.8g",
+                "2.69g",
+                "5.6g"
+            ],
+            [
+                "19%",
+                "30%",
+                "19%",
+                "19%",
+                "15%",
+                "19%",
+                "45%",
+                null
+            ]
+        ]
+    },
+    "roasted-chicken-breast-with-cherry-tomatoes-and-asparagus": {
+        "ingredients": [
+            "1 higher-welfare chicken breast",
+            "8 sticks asparagus , trimmed",
+            "6 cherry tomatoes",
+            "2 sprigs rosemary",
+            "1 pinch sea salt",
+            "1 pinch freshly ground black pepper",
+            "olive oil",
+            "white wine",
+            "balsamic vinegar"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "389",
+                "19.7g",
+                "4.4g",
+                "42.6g",
+                "9.5g",
+                "8.5g",
+                "2.34g",
+                "3.6g"
+            ],
+            [
+                "19%",
+                "28%",
+                "22%",
+                "85%",
+                "4%",
+                "9%",
+                "39%",
+                null
+            ]
+        ]
+    },
+    "beef-with-pak-choi-mushrooms-and-noodles": {
+        "ingredients": [
+            "75 g thin rice noodles",
+            "115 g quality beef sirloin",
+            "olive oil",
+            "1 teaspoon ground cumin",
+            "sea salt",
+            "\u00bd red onion , finely sliced",
+            "1 thumb-sized piece fresh ginger , peeled and finely sliced",
+            "1 fresh red chilli , deseeded and finely sliced",
+            "1 small handful shiitake and oyster mushrooms , brushed clean and torn up",
+            "200 ml organic chicken stock",
+            "1 pak choi , quartered"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "672",
+                "23.8g",
+                "5.3g",
+                "38.3g",
+                "75.0g",
+                "3.7g"
+            ],
+            [
+                "34%",
+                "34%",
+                "27%",
+                "77%",
+                "29%",
+                "4%"
+            ]
+        ]
+    },
+    "salmon-and-couscous": {
+        "ingredients": [
+            "75 g couscous",
+            "120 g salmon fillet , skin on, scaled and pinboned",
+            "extra virgin olive oil",
+            "sea salt",
+            "freshly ground black pepper",
+            "1 small courgette , sliced into batons",
+            "1 small handful asparagus tips",
+            "1 red chilli deseeded and finely chopped",
+            "2 ripe tomatoes , roughly chopped",
+            "\u00bd lemon , juice of",
+            "1 small handful fresh coriander , roughly chopped",
+            "1 tablespoon fat-free natural yoghurt"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "452",
+                "32.6g",
+                "5.2g",
+                "29.7g",
+                "10.1g",
+                "10g",
+                "1.25g",
+                "3.1g"
+            ],
+            [
+                "23%",
+                "47%",
+                "26%",
+                "59%",
+                "4%",
+                "11%",
+                "21%",
+                null
+            ]
+        ]
+    },
+    "fish-in-a-bag": {
+        "ingredients": [
+            "1 free-range egg",
+            "100 g potatoes",
+            "\u00bd a bulb of fennel",
+            "\u00bd a lemon",
+            "5 ripe cherry tomatoes",
+            "1 handful of black olives (stone in)",
+            "1 x 120 g firm white fish fillet, such as sea bass, haddock, halibut, skin off, pin-boned , from sustainables sources, ask your fishmonger, skinned and pinboned",
+            "olive oil",
+            "1 splash of white wine"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "450",
+                "24.9g",
+                "4.8g",
+                "31.4g",
+                "23.1g",
+                "6.2g",
+                "1.7g",
+                "6.2g"
+            ],
+            [
+                "23%",
+                "36%",
+                "24%",
+                "63%",
+                "9%",
+                "7%",
+                "28%",
+                null
+            ]
+        ]
+    },
+    "anglo-french-toastie": {
+        "ingredients": [
+            "2 slices white bread , around 1cm thick",
+            "unsalted butter",
+            "15 g Comte cheese",
+            "15 g Westcombe or artisan Cheddar cheese",
+            "2 slices higher-welfare roasted ham",
+            "\u00bd tablespoon white wine vinegar",
+            "1 tablespoon rapeseed oil",
+            "freshly ground black pepper",
+            "sea salt",
+            "1 small eating apple",
+            "1 handful mixed salad leaves , such as frisse, watercress, rocket"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "555",
+                "30.6g",
+                "11.5g",
+                "23.8g",
+                "43.4g",
+                "10.8g"
+            ],
+            [
+                "28%",
+                "44%",
+                "58%",
+                "48%",
+                "17%",
+                "12%"
+            ]
+        ]
+    },
+    "tomato-and-basil-omelette": {
+        "ingredients": [
+            "2 sprigs of fresh basil",
+            "3 cherry tomatoes",
+            "2 large free-range eggs",
+            "olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars"
+            ],
+            [
+                "230",
+                "19.2g",
+                "4.3g",
+                "14.6g",
+                "1.4g",
+                "1.4g"
+            ],
+            [
+                "12%",
+                "27%",
+                "22%",
+                "29%",
+                "1%",
+                "2%"
+            ]
+        ]
+    },
+    "roasted-chicken-breast-with-lemony-bombay-potatoes": {
+        "ingredients": [
+            "200 g potatoes",
+            "\u00bc teaspoon ground turmeric",
+            "\u00bd teaspoon ground cumin",
+            "1 lemon",
+            "a few sprigs of fresh coriander",
+            "\u00bd red pepper",
+            "2 cm piece of ginger",
+            "1 free-range chicken breast",
+            "olive oil"
+        ],
+        "nutrition": [
+            [
+                "Calories",
+                "Fat",
+                "Saturates",
+                "Protein",
+                "Carbs",
+                "Sugars",
+                "Salt",
+                "Fibre"
+            ],
+            [
+                "349",
+                "8.7g",
+                "1.6g",
+                "33.6g",
+                "37.4g",
+                "5.5g",
+                "0.7g",
+                "3.3g"
+            ],
+            [
+                "17%",
+                "12%",
+                "8%",
+                "67%",
+                "14%",
+                "6%",
+                "12%",
+                null
+            ]
+        ]
+    }
+}
