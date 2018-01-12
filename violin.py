@@ -354,7 +354,7 @@ def violin_colorscale(data, data_header, group_header, colors, use_colorscale,
         hovermode='closest',
         autosize=True,
         height=height,
-        margin=graph_objs.Margin(l=50)
+        margin=graph_objs.Margin(l=50, b=100)
     )
 
     return fig
