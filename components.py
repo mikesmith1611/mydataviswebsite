@@ -9,7 +9,7 @@ nutritionViolinGraph = dcc.Graph(id='nutritionViolinGraph')
 nutritionViolinGroupDropDown = dcc.Dropdown(
     id='nutritionViolinGroupDropDown',
     options=[{'value': i, 'label': i.capitalize()} for i in np.unique(dfNutririon.category)],
-    value=dfNutririon.category[0],
+    value='world',
     clearable=False
 )
 
@@ -33,5 +33,24 @@ nutritionViolinTypeDropDown = dcc.Dropdown(
               {'label': 'Fibre', 'value': 'Fibre'}
               ],
     value='Calories',
+    clearable=False
+)
+
+
+ingredients = data.ingredients
+ingredientGraph = dcc.Graph(id='ingredientGraph')
+
+ingredientsDropDown = dcc.Dropdown(
+    id='ingredientsDropDown',
+    options=[{'value': i, 'label': i.capitalize()} for i in ingredients],
+    value='chicken',
+    multi=True,
+    clearable=False
+)
+
+ingredientsGroupDropDown = dcc.Dropdown(
+    id='ingredientsGroupDropDown',
+    options=[{'value': i, 'label': i.capitalize()} for i in np.unique(dfNutririon.category)],
+    value='world',
     clearable=False
 )

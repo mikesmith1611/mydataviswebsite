@@ -30,4 +30,40 @@ def nutritionViolin(df, data_header, category, nutritionType):
                            height=600)
     return fig
 
+def ingredientDist(df, category, ingredients):
+    
+    df = df[df.category == category]
+    mask = np.ones(len(df), dtype=bool)
+    for ingredient in ingredients:
+        mask &= df['ingredients'].str.contains(ingredient)
+    total = df.groupby('subCategory').count()['recipe']
+    dfIng = df[mask]
+    dfIng = dfIng.groupby('subCategory').count()['recipe']
+    mask2 = np.in1d(total.index, dfIng.index)
+    notIn = total[~mask2]
+    In = total[mask2]
+    frac = dfIng / In
+    x = np.array(list(frac.index) + list(notIn.index))
+    y = np.array(list(frac.values) + [0] * len(notIn))
+    print(notIn, x, y)
+    mask = np.argsort(y)
+    y = y[mask][:: -1]
+    x = x[mask][:: -1]
+    trace = go.Bar(
+        x=x,
+        y=y
+    )
+    return go.Figure(data=[trace])
+
+import data
+from sklearn.cluster import KMeans
+
+
+category = 'world'
+df = data.dfNutririon
+ingreients = data.ingredients
+
+df = df[df['category']  == 'world']
+
+
 
